@@ -900,19 +900,25 @@ if st.session_state.get("generated", False):
         # HEALTH SUMMARY
         # =================================================
 
-        st.info(f"""
-        Daily Health Summary
-
-        • BMI: {bmi}
-
-        • Water Intake: {water} Liters
-
-        • Protein Requirement: {protein} grams
-
-        • Goal: {goal}
-
-        • Estimated Daily Calorie Target: {target_calories} kcal
-        """)
+        st.markdown(
+            f"""
+            <section class="report-summary">
+              <div class="report-summary-heading">
+                <span class="report-summary-kicker">YOUR NUTRITION SNAPSHOT</span>
+                <h3>Daily health summary</h3>
+              </div>
+              <div class="report-summary-grid">
+                <div class="report-summary-item"><span>BMI</span><strong>{bmi}</strong></div>
+                <div class="report-summary-item"><span>Water intake</span><strong>{water} L</strong></div>
+                <div class="report-summary-item"><span>Protein requirement</span><strong>{protein} g</strong></div>
+                <div class="report-summary-item"><span>Selected goal</span><strong>{goal}</strong></div>
+                <div class="report-summary-item report-summary-wide"><span>Estimated daily calorie target</span><strong>{target_calories} kcal</strong></div>
+              </div>
+              <p class="report-summary-note">These values are estimates for general planning, not medical prescriptions.</p>
+            </section>
+            """,
+            unsafe_allow_html=True,
+        )
 
         # =================================================
         # DOWNLOAD BUTTONS FOR RECOMMENDATIONS
