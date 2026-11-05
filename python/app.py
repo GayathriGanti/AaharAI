@@ -25,88 +25,28 @@ st.set_page_config(
     layout="wide"
 )
 
+# =====================================================
+# BOTANICAL WELLNESS THEME
+# =====================================================
+
+THEME_PATH = os.path.join(os.path.dirname(os.path.abspath(__file__)), "styles", "theme.css")
+with open(THEME_PATH, "r", encoding="utf-8") as theme_file:
+    st.markdown(f"<style>{theme_file.read()}</style>", unsafe_allow_html=True)
+
 st.markdown(
     """
-    <div class="main-title-container"></div>
+    <section class="app-hero">
+      <div class="hero-copy">
+        <span class="hero-eyebrow">YOUR PERSONAL WELLNESS COMPANION</span>
+        <h1>Eat well. Feel well. Live well.</h1>
+        <p>Build practical food choices around your goals, preferences and everyday ingredients.</p>
+        <div class="hero-tags"><span>Personalised nutrition</span><span>Recipe discovery</span><span>7-day meal planning</span></div>
+      </div>
+      <div class="hero-art" aria-hidden="true"><span>🥑</span><span>🥬</span><span>🍋</span></div>
+    </section>
     """,
     unsafe_allow_html=True
 )
-
-page_bg = """
-<style>
-[data-testid="stAppViewContainer"] {
-    background-color: #000000;
-    color: white;
-}
-
-.main-title-container {
-    background-image: url("https://www.eatingwell.com/thmb/YxkWBfh2AvNYrDKoHukRdmRvD5U=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/article_291139_the-top-10-healthiest-foods-for-kids_-02-4b745e57928c4786a61b47d8ba920058.jpg");
-    background-size: cover;
-    background-position: center;
-    height: 280px;
-    border-radius: 20px;
-    margin-bottom: 25px;
-}
-
-[data-testid="stSidebar"] {
-    background-color: #111111;
-}
-
-h1, h2, h3, h4, h5, h6, p, label {
-    color: white !important;
-}
-
-.stMetric {
-    background-color: #1e1e1e;
-    padding: 15px;
-    border-radius: 15px;
-    border: 1px solid #333333;
-}
-
-[data-testid="stDataFrame"] {
-    background-color: #111111;
-    border-radius: 15px;
-}
-
-.stButton>button {
-    background-color: #00c853;
-    color: white;
-    border-radius: 10px;
-    border: none;
-    font-weight: bold;
-}
-
-.stDownloadButton>button {
-    background-color: #ff9800;
-    color: white;
-    border-radius: 10px;
-    border: none;
-}
-
-.stTextInput input, .stNumberInput input {
-    background-color: #1e1e1e;
-    color: white;
-}
-
-.stSlider {
-    color: white;
-}
-/* SELECTBOX DROPDOWN FIX */
-div[data-baseweb="popover"] * {
-    color: #222222 !important;
-}
-
-div[data-baseweb="popover"] [role="option"] {
-    background-color: white !important;
-}
-
-div[data-baseweb="popover"] [role="option"]:hover {
-    background-color: #dddddd !important;
-}
-</style>
-"""
-
-st.markdown(page_bg, unsafe_allow_html=True)
 
 # =====================================================
 # LOAD DATASET
@@ -246,17 +186,11 @@ def recommend_foods(
 # TITLE
 # =====================================================
 
-st.title("🥗 AI Personalized Diet Recommendation System")
-
-st.markdown("""
-### Get personalized food suggestions based on:
-- Your selected fitness goal
-- Estimated calorie needs (BMR and TDEE)
-- BMI and body measurements
-- Protein and other nutrient information
-
-Your BMI is displayed as a health metric. It does not automatically select your fitness goal.
-""")
+st.markdown("## A plan that starts with you")
+st.markdown(
+    "Share a few details in the sidebar, generate your nutrition overview, then explore recipes and your weekly plan. "
+    "Your selected goal is always your choice; BMI is displayed separately as a reference metric."
+)
 
 
 # =====================================================
