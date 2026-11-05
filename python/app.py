@@ -20,7 +20,7 @@ DATASET_PATH = os.path.join(BASE_DIR, "Cleaned_data", "usda_food_nutrition_per_1
 # =====================================================
 
 st.set_page_config(
-    page_title="AI Diet Recommendation System",
+    page_title="AaharMind AI | Personalised Nutrition",
     page_icon="🥗",
     layout="wide"
 )
@@ -37,7 +37,7 @@ st.markdown(
     """
     <section class="app-hero">
       <div class="hero-copy">
-        <span class="hero-eyebrow">YOUR PERSONAL WELLNESS COMPANION</span>
+        <span class="hero-eyebrow">AAHARMIND AI  ·  YOUR PERSONAL WELLNESS COMPANION</span>
         <h1>Eat well. Feel well. Live well.</h1>
         <p>Build practical food choices around your goals, preferences and everyday ingredients.</p>
         <div class="hero-tags"><span>Personalised nutrition</span><span>Recipe discovery</span><span>7-day meal planning</span></div>
