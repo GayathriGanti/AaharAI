@@ -88,7 +88,29 @@ input::placeholder, textarea::placeholder { color: #849187 !important; }
 [data-testid="stTabs"] button[role="tab"][aria-selected="true"] { color: var(--green) !important; }
 hr { border-color: var(--line) !important; }
 .stProgress > div > div > div > div { background: var(--green) !important; }
-[data-testid="stAlert"] { border-radius: 14px; }
+/* Keep Streamlit notices readable regardless of the host theme. */
+[data-testid="stAlert"] {
+  background: #EEF3E9 !important;
+  color: #263B32 !important;
+  border: 1px solid #DCE5D8 !important;
+  border-radius: 14px !important;
+}
+[data-testid="stAlert"] *,
+[data-testid="stAlert"] p,
+[data-testid="stAlert"] span,
+[data-testid="stAlert"] [data-testid="stMarkdownContainer"] {
+  color: #263B32 !important;
+}
+[data-testid="stButton"] button,
+[data-testid="stFormSubmitButton"] button,
+[data-testid="stDownloadButton"] button {
+  color: #FFFFFF !important;
+}
+[data-testid="stButton"] button *,
+[data-testid="stFormSubmitButton"] button *,
+[data-testid="stDownloadButton"] button * {
+  color: #FFFFFF !important;
+}
 @media (max-width: 760px) {
   .main .block-container { padding: 1rem 1rem 2rem; }
   .app-hero { padding: 1.6rem; min-height: auto; }
