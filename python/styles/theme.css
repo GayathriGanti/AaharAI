@@ -117,3 +117,188 @@ hr { border-color: var(--line) !important; }
   .hero-art { display: none; }
   .app-hero h1 { font-size: 2rem; }
 }
+
+
+/* ---------------------------------------------------------
+   ACCESSIBILITY / CONTRAST HARDENING
+   Keep every content surface and its text on a coordinated,
+   predictable light palette. Dark green is reserved for
+   buttons and selected accents, always with white text.
+   --------------------------------------------------------- */
+
+:root {
+  color-scheme: light;
+  --page: #F5F7F0;
+  --surface: #FFFFFF;
+  --surface-soft: #EEF3E9;
+  --ink: #263B32;
+  --muted: #52665A;
+  --green: #315C46;
+  --green-dark: #244735;
+  --line: #DCE5D8;
+}
+
+/* Main canvas, sidebar and Streamlit containers */
+html, body, .stApp,
+[data-testid="stAppViewContainer"],
+[data-testid="stMain"],
+section.main,
+.main .block-container {
+  background-color: #F5F7F0 !important;
+  color: #263B32 !important;
+}
+[data-testid="stSidebar"],
+[data-testid="stSidebar"] > div,
+[data-testid="stSidebarContent"] {
+  background-color: #EDF2E9 !important;
+  color: #263B32 !important;
+}
+[data-testid="stVerticalBlockBorderWrapper"],
+[data-testid="stContainer"],
+[data-testid="stForm"] {
+  color: #263B32;
+}
+
+/* Text defaults: dark text on the light canvas */
+[data-testid="stAppViewContainer"] h1,
+[data-testid="stAppViewContainer"] h2,
+[data-testid="stAppViewContainer"] h3,
+[data-testid="stAppViewContainer"] h4,
+[data-testid="stAppViewContainer"] p,
+[data-testid="stAppViewContainer"] li,
+[data-testid="stAppViewContainer"] label,
+[data-testid="stSidebar"] h1,
+[data-testid="stSidebar"] h2,
+[data-testid="stSidebar"] h3,
+[data-testid="stSidebar"] p,
+[data-testid="stSidebar"] label,
+[data-testid="stMarkdownContainer"] {
+  color: #263B32 !important;
+}
+[data-testid="stCaptionContainer"],
+[data-testid="stCaptionContainer"] * {
+  color: #52665A !important;
+}
+
+/* Streamlit notices: the former Reports summary used st.info(),
+   whose default blue surface could conflict with green text. */
+div[data-testid="stAlert"],
+div[data-testid="stAlert"] > div,
+div[data-testid="stAlert"] [data-testid="stMarkdownContainer"],
+div[data-testid="stNotification"],
+div[data-testid="stNotification"] > div,
+div[data-testid="stNotification"] [data-testid="stMarkdownContainer"] {
+  background-color: #EEF3E9 !important;
+  color: #263B32 !important;
+  border-color: #DCE5D8 !important;
+}
+div[data-testid="stAlert"] *,
+div[data-testid="stNotification"] *,
+div[data-testid="stAlert"] p,
+div[data-testid="stNotification"] p {
+  color: #263B32 !important;
+}
+
+/* Cards, expanders and their nested contents */
+[data-testid="stExpander"],
+[data-testid="stExpander"] details,
+[data-testid="stExpander"] summary,
+[data-testid="stExpander"] [data-testid="stExpanderDetails"],
+[data-testid="stExpander"] [data-testid="stVerticalBlock"] {
+  background-color: #FFFFFF !important;
+  color: #263B32 !important;
+  border-color: #DCE5D8 !important;
+}
+[data-testid="stExpander"] summary *,
+[data-testid="stExpander"] [data-testid="stMarkdownContainer"] *,
+[data-testid="stExpander"] p,
+[data-testid="stExpander"] label {
+  color: #263B32 !important;
+}
+
+/* Inputs, dropdowns and popovers */
+[data-testid="stTextInput"] input,
+[data-testid="stNumberInput"] input,
+[data-testid="stTextArea"] textarea,
+[data-testid="stDateInput"] input,
+[data-baseweb="select"] > div,
+[data-baseweb="input"] > div,
+[data-baseweb="popover"],
+[data-baseweb="menu"],
+[role="listbox"],
+[role="option"] {
+  background-color: #FFFFFF !important;
+  color: #263B32 !important;
+  border-color: #CAD7C8 !important;
+}
+[data-baseweb="select"] *,
+[data-baseweb="popover"] *,
+[data-baseweb="menu"] *,
+[role="listbox"] *,
+[role="option"] * {
+  color: #263B32 !important;
+}
+[role="option"]:hover,
+[aria-selected="true"][role="option"] {
+  background-color: #EEF3E9 !important;
+}
+
+/* Buttons: always white text on forest-green surfaces */
+.stButton > button,
+.stDownloadButton > button,
+[data-testid="stFormSubmitButton"] > button,
+[data-testid="stButton"] button,
+[data-testid="stDownloadButton"] button {
+  background-color: #315C46 !important;
+  color: #FFFFFF !important;
+  border: 1px solid #315C46 !important;
+}
+.stButton > button *,
+.stDownloadButton > button *,
+[data-testid="stFormSubmitButton"] > button *,
+[data-testid="stButton"] button *,
+[data-testid="stDownloadButton"] button * {
+  color: #FFFFFF !important;
+}
+.stButton > button:hover,
+.stDownloadButton > button:hover,
+[data-testid="stFormSubmitButton"] > button:hover {
+  background-color: #244735 !important;
+  color: #FFFFFF !important;
+}
+
+/* Metrics and data presentation */
+div[data-testid="stMetric"],
+[data-testid="stDataFrame"],
+[data-testid="stTable"] {
+  background-color: #FFFFFF !important;
+  color: #263B32 !important;
+  border-color: #DCE5D8 !important;
+}
+[data-testid="stMetricLabel"],
+[data-testid="stMetricLabel"] *,
+[data-testid="stMetricValue"],
+[data-testid="stMetricValue"] * {
+  color: #263B32 !important;
+}
+
+/* Navigation tabs: readable inactive and active states */
+[data-testid="stTabs"] button[role="tab"] {
+  color: #52665A !important;
+  background-color: transparent !important;
+}
+[data-testid="stTabs"] button[role="tab"][aria-selected="true"] {
+  color: #244735 !important;
+  border-bottom-color: #315C46 !important;
+}
+
+/* Ensure readable text on interactive controls */
+[data-testid="stRadio"] label,
+[data-testid="stCheckbox"] label,
+[data-testid="stSelectbox"] label,
+[data-testid="stSlider"] label,
+[data-testid="stNumberInput"] label,
+[data-testid="stTextInput"] label,
+[data-testid="stTextArea"] label {
+  color: #263B32 !important;
+}
