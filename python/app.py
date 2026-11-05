@@ -257,7 +257,7 @@ if not st.session_state.get("generated", False):
         with g1:
             st.selectbox("Fitness goal", ["Weight loss", "Weight maintenance", "Weight gain"], key="profile_goal")
             st.selectbox("Activity level", ["Sedentary", "Lightly Active", "Moderately Active", "Very Active", "Extremely Active"], key="profile_activity")
-            st.slider("Meals per day", min_value=1, max_value=10, value=3, key="profile_meals")
+            st.slider("Meals per day", min_value=1, max_value=10, key="profile_meals")
         with g2:
             st.selectbox("Diet preference", ["No preference", "Vegetarian", "Eggetarian", "Non-vegetarian", "Vegan"], key="recipe_diet")
             st.selectbox("Budget", ["Any budget", "Budget-friendly", "Regular"], key="recipe_budget")
