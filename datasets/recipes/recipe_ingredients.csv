@@ -1,0 +1,2357 @@
+recipe_id,ingredient_id,quantity_g,ingredient_state_note
+R001,oats,100,Edible portion; dry weights specified for dry grains/pulses
+R001,carrot,40,Edible portion; dry weights specified for dry grains/pulses
+R001,beans,40,Edible portion; dry weights specified for dry grains/pulses
+R001,peas,30,Edible portion; dry weights specified for dry grains/pulses
+R001,onion,40,Edible portion; dry weights specified for dry grains/pulses
+R001,oil,8,Edible portion; dry weights specified for dry grains/pulses
+R001,ginger,5,Edible portion; dry weights specified for dry grains/pulses
+R001,curry_leaves,2,Edible portion; dry weights specified for dry grains/pulses
+R002,moong_dal_dry,120,Edible portion; dry weights specified for dry grains/pulses
+R002,ginger,5,Edible portion; dry weights specified for dry grains/pulses
+R002,green_chilli,5,Edible portion; dry weights specified for dry grains/pulses
+R002,coriander,10,Edible portion; dry weights specified for dry grains/pulses
+R002,oil,8,Edible portion; dry weights specified for dry grains/pulses
+R002,onion,30,Edible portion; dry weights specified for dry grains/pulses
+R003,ragi_flour,100,Edible portion; dry weights specified for dry grains/pulses
+R003,urad_dal,25,Edible portion; dry weights specified for dry grains/pulses
+R003,onion,30,Edible portion; dry weights specified for dry grains/pulses
+R003,coriander,8,Edible portion; dry weights specified for dry grains/pulses
+R003,oil,6,Edible portion; dry weights specified for dry grains/pulses
+R004,poha,120,Edible portion; dry weights specified for dry grains/pulses
+R004,peas,40,Edible portion; dry weights specified for dry grains/pulses
+R004,potato,50,Edible portion; dry weights specified for dry grains/pulses
+R004,onion,40,Edible portion; dry weights specified for dry grains/pulses
+R004,peanuts,15,Edible portion; dry weights specified for dry grains/pulses
+R004,oil,8,Edible portion; dry weights specified for dry grains/pulses
+R004,lemon,10,Edible portion; dry weights specified for dry grains/pulses
+R004,curry_leaves,2,Edible portion; dry weights specified for dry grains/pulses
+R005,besan,100,Edible portion; dry weights specified for dry grains/pulses
+R005,tomato,40,Edible portion; dry weights specified for dry grains/pulses
+R005,onion,30,Edible portion; dry weights specified for dry grains/pulses
+R005,spinach,30,Edible portion; dry weights specified for dry grains/pulses
+R005,curd,30,Edible portion; dry weights specified for dry grains/pulses
+R005,oil,8,Edible portion; dry weights specified for dry grains/pulses
+R006,rice_raw,100,Edible portion; dry weights specified for dry grains/pulses
+R006,urad_dal,35,Edible portion; dry weights specified for dry grains/pulses
+R006,toor_dal_dry,50,Edible portion; dry weights specified for dry grains/pulses
+R006,tomato,50,Edible portion; dry weights specified for dry grains/pulses
+R006,carrot,40,Edible portion; dry weights specified for dry grains/pulses
+R006,onion,30,Edible portion; dry weights specified for dry grains/pulses
+R006,oil,5,Edible portion; dry weights specified for dry grains/pulses
+R007,rava,100,Edible portion; dry weights specified for dry grains/pulses
+R007,carrot,40,Edible portion; dry weights specified for dry grains/pulses
+R007,beans,40,Edible portion; dry weights specified for dry grains/pulses
+R007,peas,30,Edible portion; dry weights specified for dry grains/pulses
+R007,onion,40,Edible portion; dry weights specified for dry grains/pulses
+R007,oil,8,Edible portion; dry weights specified for dry grains/pulses
+R007,peanuts,10,Edible portion; dry weights specified for dry grains/pulses
+R008,oats,40,Edible portion; dry weights specified for dry grains/pulses
+R008,milk,150,Edible portion; dry weights specified for dry grains/pulses
+R008,banana,80,Edible portion; dry weights specified for dry grains/pulses
+R008,chia,8,Edible portion; dry weights specified for dry grains/pulses
+R008,almonds,8,Edible portion; dry weights specified for dry grains/pulses
+R009,moong_dal_dry,120,Edible portion; dry weights specified for dry grains/pulses
+R009,ginger,5,Edible portion; dry weights specified for dry grains/pulses
+R009,green_chilli,5,Edible portion; dry weights specified for dry grains/pulses
+R009,onion,30,Edible portion; dry weights specified for dry grains/pulses
+R009,cumin,2,Edible portion; dry weights specified for dry grains/pulses
+R009,oil,8,Edible portion; dry weights specified for dry grains/pulses
+R010,millet_flour,60,Edible portion; dry weights specified for dry grains/pulses
+R010,moong_dal_dry,50,Edible portion; dry weights specified for dry grains/pulses
+R010,carrot,40,Edible portion; dry weights specified for dry grains/pulses
+R010,peas,30,Edible portion; dry weights specified for dry grains/pulses
+R010,ginger,5,Edible portion; dry weights specified for dry grains/pulses
+R010,oil,6,Edible portion; dry weights specified for dry grains/pulses
+R011,paneer,160,Edible portion; dry weights specified for dry grains/pulses
+R011,spinach,100,Edible portion; dry weights specified for dry grains/pulses
+R011,tomato,60,Edible portion; dry weights specified for dry grains/pulses
+R011,onion,50,Edible portion; dry weights specified for dry grains/pulses
+R011,oil,6,Edible portion; dry weights specified for dry grains/pulses
+R011,ginger,5,Edible portion; dry weights specified for dry grains/pulses
+R012,rajma_dry,100,Edible portion; dry weights specified for dry grains/pulses
+R012,brown_rice_raw,100,Edible portion; dry weights specified for dry grains/pulses
+R012,tomato,100,Edible portion; dry weights specified for dry grains/pulses
+R012,onion,60,Edible portion; dry weights specified for dry grains/pulses
+R012,oil,8,Edible portion; dry weights specified for dry grains/pulses
+R012,ginger,5,Edible portion; dry weights specified for dry grains/pulses
+R012,garlic,5,Edible portion; dry weights specified for dry grains/pulses
+R013,chickpeas_dry,100,Edible portion; dry weights specified for dry grains/pulses
+R013,whole_wheat_flour,100,Edible portion; dry weights specified for dry grains/pulses
+R013,tomato,120,Edible portion; dry weights specified for dry grains/pulses
+R013,onion,60,Edible portion; dry weights specified for dry grains/pulses
+R013,oil,8,Edible portion; dry weights specified for dry grains/pulses
+R013,ginger,5,Edible portion; dry weights specified for dry grains/pulses
+R013,garlic,5,Edible portion; dry weights specified for dry grains/pulses
+R014,rice_raw,100,Edible portion; dry weights specified for dry grains/pulses
+R014,toor_dal_dry,60,Edible portion; dry weights specified for dry grains/pulses
+R014,carrot,50,Edible portion; dry weights specified for dry grains/pulses
+R014,beans,50,Edible portion; dry weights specified for dry grains/pulses
+R014,tomato,60,Edible portion; dry weights specified for dry grains/pulses
+R014,onion,40,Edible portion; dry weights specified for dry grains/pulses
+R014,oil,6,Edible portion; dry weights specified for dry grains/pulses
+R015,tofu,160,Edible portion; dry weights specified for dry grains/pulses
+R015,quinoa,100,Edible portion; dry weights specified for dry grains/pulses
+R015,broccoli,80,Edible portion; dry weights specified for dry grains/pulses
+R015,capsicum,60,Edible portion; dry weights specified for dry grains/pulses
+R015,carrot,50,Edible portion; dry weights specified for dry grains/pulses
+R015,oil,8,Edible portion; dry weights specified for dry grains/pulses
+R016,rice_raw,80,Edible portion; dry weights specified for dry grains/pulses
+R016,masoor_dal_dry,70,Edible portion; dry weights specified for dry grains/pulses
+R016,carrot,40,Edible portion; dry weights specified for dry grains/pulses
+R016,peas,30,Edible portion; dry weights specified for dry grains/pulses
+R016,tomato,50,Edible portion; dry weights specified for dry grains/pulses
+R016,oil,6,Edible portion; dry weights specified for dry grains/pulses
+R017,rice_raw,120,Edible portion; dry weights specified for dry grains/pulses
+R017,paneer,100,Edible portion; dry weights specified for dry grains/pulses
+R017,peas,40,Edible portion; dry weights specified for dry grains/pulses
+R017,carrot,40,Edible portion; dry weights specified for dry grains/pulses
+R017,beans,40,Edible portion; dry weights specified for dry grains/pulses
+R017,onion,40,Edible portion; dry weights specified for dry grains/pulses
+R017,oil,8,Edible portion; dry weights specified for dry grains/pulses
+R018,rice_raw,120,Edible portion; dry weights specified for dry grains/pulses
+R018,peanuts,20,Edible portion; dry weights specified for dry grains/pulses
+R018,oil,8,Edible portion; dry weights specified for dry grains/pulses
+R018,lemon,20,Edible portion; dry weights specified for dry grains/pulses
+R018,curry_leaves,3,Edible portion; dry weights specified for dry grains/pulses
+R018,sesame,5,Edible portion; dry weights specified for dry grains/pulses
+R019,moong_dal_dry,30,Edible portion; dry weights specified for dry grains/pulses
+R019,toor_dal_dry,30,Edible portion; dry weights specified for dry grains/pulses
+R019,masoor_dal_dry,30,Edible portion; dry weights specified for dry grains/pulses
+R019,whole_wheat_flour,100,Edible portion; dry weights specified for dry grains/pulses
+R019,tomato,80,Edible portion; dry weights specified for dry grains/pulses
+R019,onion,40,Edible portion; dry weights specified for dry grains/pulses
+R019,oil,6,Edible portion; dry weights specified for dry grains/pulses
+R020,tofu,160,Edible portion; dry weights specified for dry grains/pulses
+R020,cauliflower,80,Edible portion; dry weights specified for dry grains/pulses
+R020,peas,50,Edible portion; dry weights specified for dry grains/pulses
+R020,tomato,100,Edible portion; dry weights specified for dry grains/pulses
+R020,onion,50,Edible portion; dry weights specified for dry grains/pulses
+R020,coconut,15,Edible portion; dry weights specified for dry grains/pulses
+R020,oil,6,Edible portion; dry weights specified for dry grains/pulses
+R021,sweet_potato,300,Edible portion; dry weights specified for dry grains/pulses
+R021,chickpeas_dry,60,Edible portion; dry weights specified for dry grains/pulses
+R021,curd,50,Edible portion; dry weights specified for dry grains/pulses
+R021,cucumber,40,Edible portion; dry weights specified for dry grains/pulses
+R021,tomato,40,Edible portion; dry weights specified for dry grains/pulses
+R021,lemon,10,Edible portion; dry weights specified for dry grains/pulses
+R022,moong_dal_dry,100,Edible portion; dry weights specified for dry grains/pulses
+R022,spinach,120,Edible portion; dry weights specified for dry grains/pulses
+R022,tomato,70,Edible portion; dry weights specified for dry grains/pulses
+R022,onion,40,Edible portion; dry weights specified for dry grains/pulses
+R022,garlic,5,Edible portion; dry weights specified for dry grains/pulses
+R022,oil,6,Edible portion; dry weights specified for dry grains/pulses
+R023,carrot,60,Edible portion; dry weights specified for dry grains/pulses
+R023,beans,60,Edible portion; dry weights specified for dry grains/pulses
+R023,broccoli,80,Edible portion; dry weights specified for dry grains/pulses
+R023,tomato,80,Edible portion; dry weights specified for dry grains/pulses
+R023,onion,30,Edible portion; dry weights specified for dry grains/pulses
+R023,bread_whole,60,Edible portion; dry weights specified for dry grains/pulses
+R023,oil,4,Edible portion; dry weights specified for dry grains/pulses
+R024,millet_flour,80,Edible portion; dry weights specified for dry grains/pulses
+R024,mushroom,100,Edible portion; dry weights specified for dry grains/pulses
+R024,peas,60,Edible portion; dry weights specified for dry grains/pulses
+R024,spinach,50,Edible portion; dry weights specified for dry grains/pulses
+R024,onion,40,Edible portion; dry weights specified for dry grains/pulses
+R024,oil,6,Edible portion; dry weights specified for dry grains/pulses
+R025,makhana,40,Edible portion; dry weights specified for dry grains/pulses
+R025,oil,4,Edible portion; dry weights specified for dry grains/pulses
+R025,sesame,4,Edible portion; dry weights specified for dry grains/pulses
+R026,moong_dal_dry,80,Edible portion; dry weights specified for dry grains/pulses
+R026,tomato,50,Edible portion; dry weights specified for dry grains/pulses
+R026,cucumber,50,Edible portion; dry weights specified for dry grains/pulses
+R026,onion,20,Edible portion; dry weights specified for dry grains/pulses
+R026,lemon,15,Edible portion; dry weights specified for dry grains/pulses
+R026,coriander,8,Edible portion; dry weights specified for dry grains/pulses
+R027,papaya,150,Edible portion; dry weights specified for dry grains/pulses
+R027,yogurt_greek,100,Edible portion; dry weights specified for dry grains/pulses
+R027,chia,5,Edible portion; dry weights specified for dry grains/pulses
+R027,almonds,5,Edible portion; dry weights specified for dry grains/pulses
+R028,banana,100,Edible portion; dry weights specified for dry grains/pulses
+R028,milk,180,Edible portion; dry weights specified for dry grains/pulses
+R028,peanuts,10,Edible portion; dry weights specified for dry grains/pulses
+R029,oats,40,Edible portion; dry weights specified for dry grains/pulses
+R029,milk,150,Edible portion; dry weights specified for dry grains/pulses
+R029,apple,70,Edible portion; dry weights specified for dry grains/pulses
+R029,chia,5,Edible portion; dry weights specified for dry grains/pulses
+R029,almonds,5,Edible portion; dry weights specified for dry grains/pulses
+R030,whole_wheat_flour,100,Edible portion; dry weights specified for dry grains/pulses
+R030,paneer,80,Edible portion; dry weights specified for dry grains/pulses
+R030,capsicum,60,Edible portion; dry weights specified for dry grains/pulses
+R030,carrot,40,Edible portion; dry weights specified for dry grains/pulses
+R030,cucumber,40,Edible portion; dry weights specified for dry grains/pulses
+R030,curd,30,Edible portion; dry weights specified for dry grains/pulses
+R030,oil,5,Edible portion; dry weights specified for dry grains/pulses
+R031,moong_dal_dry,70,Edible portion; dry weights specified for dry grains and pulses
+R031,rice_raw,90,Edible portion; dry weights specified for dry grains and pulses
+R031,tomato,80,Edible portion; dry weights specified for dry grains and pulses
+R031,onion,25,Edible portion; dry weights specified for dry grains and pulses
+R031,spinach,25,Edible portion; dry weights specified for dry grains and pulses
+R031,oil,4,Edible portion; dry weights specified for dry grains and pulses
+R031,peas,25,Edible portion; dry weights specified for dry grains and pulses
+R031,beans,25,Edible portion; dry weights specified for dry grains and pulses
+R032,moong_dal_dry,70,Edible portion; dry weights specified for dry grains and pulses
+R032,rice_raw,90,Edible portion; dry weights specified for dry grains and pulses
+R032,tomato,80,Edible portion; dry weights specified for dry grains and pulses
+R032,onion,25,Edible portion; dry weights specified for dry grains and pulses
+R032,spinach,25,Edible portion; dry weights specified for dry grains and pulses
+R032,oil,4,Edible portion; dry weights specified for dry grains and pulses
+R032,capsicum,25,Edible portion; dry weights specified for dry grains and pulses
+R032,mushroom,25,Edible portion; dry weights specified for dry grains and pulses
+R033,moong_dal_dry,70,Edible portion; dry weights specified for dry grains and pulses
+R033,rice_raw,90,Edible portion; dry weights specified for dry grains and pulses
+R033,tomato,105,Edible portion; dry weights specified for dry grains and pulses
+R033,onion,25,Edible portion; dry weights specified for dry grains and pulses
+R033,spinach,25,Edible portion; dry weights specified for dry grains and pulses
+R033,oil,4,Edible portion; dry weights specified for dry grains and pulses
+R033,cauliflower,35,Edible portion; dry weights specified for dry grains and pulses
+R034,moong_dal_dry,70,Edible portion; dry weights specified for dry grains and pulses
+R034,rice_raw,90,Edible portion; dry weights specified for dry grains and pulses
+R034,tomato,80,Edible portion; dry weights specified for dry grains and pulses
+R034,onion,25,Edible portion; dry weights specified for dry grains and pulses
+R034,spinach,25,Edible portion; dry weights specified for dry grains and pulses
+R034,oil,4,Edible portion; dry weights specified for dry grains and pulses
+R034,broccoli,30,Edible portion; dry weights specified for dry grains and pulses
+R034,carrot,25,Edible portion; dry weights specified for dry grains and pulses
+R035,moong_dal_dry,70,Edible portion; dry weights specified for dry grains and pulses
+R035,rice_raw,90,Edible portion; dry weights specified for dry grains and pulses
+R035,tomato,80,Edible portion; dry weights specified for dry grains and pulses
+R035,onion,25,Edible portion; dry weights specified for dry grains and pulses
+R035,spinach,50,Edible portion; dry weights specified for dry grains and pulses
+R035,oil,4,Edible portion; dry weights specified for dry grains and pulses
+R035,beetroot,25,Edible portion; dry weights specified for dry grains and pulses
+R036,moong_dal_dry,70,Edible portion; dry weights specified for dry grains and pulses
+R036,rice_raw,90,Edible portion; dry weights specified for dry grains and pulses
+R036,tomato,80,Edible portion; dry weights specified for dry grains and pulses
+R036,onion,25,Edible portion; dry weights specified for dry grains and pulses
+R036,spinach,25,Edible portion; dry weights specified for dry grains and pulses
+R036,oil,4,Edible portion; dry weights specified for dry grains and pulses
+R036,sweet_potato,35,Edible portion; dry weights specified for dry grains and pulses
+R036,peas,20,Edible portion; dry weights specified for dry grains and pulses
+R037,moong_dal_dry,70,Edible portion; dry weights specified for dry grains and pulses
+R037,rice_raw,90,Edible portion; dry weights specified for dry grains and pulses
+R037,tomato,105,Edible portion; dry weights specified for dry grains and pulses
+R037,onion,25,Edible portion; dry weights specified for dry grains and pulses
+R037,spinach,25,Edible portion; dry weights specified for dry grains and pulses
+R037,oil,4,Edible portion; dry weights specified for dry grains and pulses
+R037,tofu,35,Edible portion; dry weights specified for dry grains and pulses
+R038,moong_dal_dry,110,Edible portion; dry weights specified for dry grains and pulses
+R038,onion,30,Edible portion; dry weights specified for dry grains and pulses
+R038,tomato,25,Edible portion; dry weights specified for dry grains and pulses
+R038,carrot,25,Edible portion; dry weights specified for dry grains and pulses
+R038,ginger,5,Edible portion; dry weights specified for dry grains and pulses
+R038,oil,6,Edible portion; dry weights specified for dry grains and pulses
+R038,peas,25,Edible portion; dry weights specified for dry grains and pulses
+R038,beans,25,Edible portion; dry weights specified for dry grains and pulses
+R039,moong_dal_dry,110,Edible portion; dry weights specified for dry grains and pulses
+R039,onion,30,Edible portion; dry weights specified for dry grains and pulses
+R039,tomato,25,Edible portion; dry weights specified for dry grains and pulses
+R039,carrot,25,Edible portion; dry weights specified for dry grains and pulses
+R039,ginger,5,Edible portion; dry weights specified for dry grains and pulses
+R039,oil,6,Edible portion; dry weights specified for dry grains and pulses
+R039,capsicum,25,Edible portion; dry weights specified for dry grains and pulses
+R039,mushroom,25,Edible portion; dry weights specified for dry grains and pulses
+R040,moong_dal_dry,110,Edible portion; dry weights specified for dry grains and pulses
+R040,onion,30,Edible portion; dry weights specified for dry grains and pulses
+R040,tomato,50,Edible portion; dry weights specified for dry grains and pulses
+R040,carrot,25,Edible portion; dry weights specified for dry grains and pulses
+R040,ginger,5,Edible portion; dry weights specified for dry grains and pulses
+R040,oil,6,Edible portion; dry weights specified for dry grains and pulses
+R040,cauliflower,35,Edible portion; dry weights specified for dry grains and pulses
+R041,moong_dal_dry,110,Edible portion; dry weights specified for dry grains and pulses
+R041,onion,30,Edible portion; dry weights specified for dry grains and pulses
+R041,tomato,25,Edible portion; dry weights specified for dry grains and pulses
+R041,carrot,50,Edible portion; dry weights specified for dry grains and pulses
+R041,ginger,5,Edible portion; dry weights specified for dry grains and pulses
+R041,oil,6,Edible portion; dry weights specified for dry grains and pulses
+R041,broccoli,30,Edible portion; dry weights specified for dry grains and pulses
+R042,moong_dal_dry,110,Edible portion; dry weights specified for dry grains and pulses
+R042,onion,30,Edible portion; dry weights specified for dry grains and pulses
+R042,tomato,25,Edible portion; dry weights specified for dry grains and pulses
+R042,carrot,25,Edible portion; dry weights specified for dry grains and pulses
+R042,ginger,5,Edible portion; dry weights specified for dry grains and pulses
+R042,oil,6,Edible portion; dry weights specified for dry grains and pulses
+R042,beetroot,25,Edible portion; dry weights specified for dry grains and pulses
+R042,spinach,25,Edible portion; dry weights specified for dry grains and pulses
+R043,moong_dal_dry,110,Edible portion; dry weights specified for dry grains and pulses
+R043,onion,30,Edible portion; dry weights specified for dry grains and pulses
+R043,tomato,25,Edible portion; dry weights specified for dry grains and pulses
+R043,carrot,25,Edible portion; dry weights specified for dry grains and pulses
+R043,ginger,5,Edible portion; dry weights specified for dry grains and pulses
+R043,oil,6,Edible portion; dry weights specified for dry grains and pulses
+R043,sweet_potato,35,Edible portion; dry weights specified for dry grains and pulses
+R043,peas,20,Edible portion; dry weights specified for dry grains and pulses
+R044,moong_dal_dry,110,Edible portion; dry weights specified for dry grains and pulses
+R044,onion,30,Edible portion; dry weights specified for dry grains and pulses
+R044,tomato,50,Edible portion; dry weights specified for dry grains and pulses
+R044,carrot,25,Edible portion; dry weights specified for dry grains and pulses
+R044,ginger,5,Edible portion; dry weights specified for dry grains and pulses
+R044,oil,6,Edible portion; dry weights specified for dry grains and pulses
+R044,tofu,35,Edible portion; dry weights specified for dry grains and pulses
+R045,ragi_flour,75,Edible portion; dry weights specified for dry grains and pulses
+R045,urad_dal,25,Edible portion; dry weights specified for dry grains and pulses
+R045,onion,25,Edible portion; dry weights specified for dry grains and pulses
+R045,carrot,25,Edible portion; dry weights specified for dry grains and pulses
+R045,coriander,5,Edible portion; dry weights specified for dry grains and pulses
+R045,oil,6,Edible portion; dry weights specified for dry grains and pulses
+R045,peas,25,Edible portion; dry weights specified for dry grains and pulses
+R045,beans,25,Edible portion; dry weights specified for dry grains and pulses
+R046,ragi_flour,75,Edible portion; dry weights specified for dry grains and pulses
+R046,urad_dal,25,Edible portion; dry weights specified for dry grains and pulses
+R046,onion,25,Edible portion; dry weights specified for dry grains and pulses
+R046,carrot,25,Edible portion; dry weights specified for dry grains and pulses
+R046,coriander,5,Edible portion; dry weights specified for dry grains and pulses
+R046,oil,6,Edible portion; dry weights specified for dry grains and pulses
+R046,capsicum,25,Edible portion; dry weights specified for dry grains and pulses
+R046,mushroom,25,Edible portion; dry weights specified for dry grains and pulses
+R047,ragi_flour,75,Edible portion; dry weights specified for dry grains and pulses
+R047,urad_dal,25,Edible portion; dry weights specified for dry grains and pulses
+R047,onion,25,Edible portion; dry weights specified for dry grains and pulses
+R047,carrot,25,Edible portion; dry weights specified for dry grains and pulses
+R047,coriander,5,Edible portion; dry weights specified for dry grains and pulses
+R047,oil,6,Edible portion; dry weights specified for dry grains and pulses
+R047,cauliflower,35,Edible portion; dry weights specified for dry grains and pulses
+R047,tomato,25,Edible portion; dry weights specified for dry grains and pulses
+R048,ragi_flour,75,Edible portion; dry weights specified for dry grains and pulses
+R048,urad_dal,25,Edible portion; dry weights specified for dry grains and pulses
+R048,onion,25,Edible portion; dry weights specified for dry grains and pulses
+R048,carrot,50,Edible portion; dry weights specified for dry grains and pulses
+R048,coriander,5,Edible portion; dry weights specified for dry grains and pulses
+R048,oil,6,Edible portion; dry weights specified for dry grains and pulses
+R048,broccoli,30,Edible portion; dry weights specified for dry grains and pulses
+R049,ragi_flour,75,Edible portion; dry weights specified for dry grains and pulses
+R049,urad_dal,25,Edible portion; dry weights specified for dry grains and pulses
+R049,onion,25,Edible portion; dry weights specified for dry grains and pulses
+R049,carrot,25,Edible portion; dry weights specified for dry grains and pulses
+R049,coriander,5,Edible portion; dry weights specified for dry grains and pulses
+R049,oil,6,Edible portion; dry weights specified for dry grains and pulses
+R049,beetroot,25,Edible portion; dry weights specified for dry grains and pulses
+R049,spinach,25,Edible portion; dry weights specified for dry grains and pulses
+R050,ragi_flour,75,Edible portion; dry weights specified for dry grains and pulses
+R050,urad_dal,25,Edible portion; dry weights specified for dry grains and pulses
+R050,onion,25,Edible portion; dry weights specified for dry grains and pulses
+R050,carrot,25,Edible portion; dry weights specified for dry grains and pulses
+R050,coriander,5,Edible portion; dry weights specified for dry grains and pulses
+R050,oil,6,Edible portion; dry weights specified for dry grains and pulses
+R050,sweet_potato,35,Edible portion; dry weights specified for dry grains and pulses
+R050,peas,20,Edible portion; dry weights specified for dry grains and pulses
+R051,ragi_flour,75,Edible portion; dry weights specified for dry grains and pulses
+R051,urad_dal,25,Edible portion; dry weights specified for dry grains and pulses
+R051,onion,25,Edible portion; dry weights specified for dry grains and pulses
+R051,carrot,25,Edible portion; dry weights specified for dry grains and pulses
+R051,coriander,5,Edible portion; dry weights specified for dry grains and pulses
+R051,oil,6,Edible portion; dry weights specified for dry grains and pulses
+R051,tofu,35,Edible portion; dry weights specified for dry grains and pulses
+R051,tomato,25,Edible portion; dry weights specified for dry grains and pulses
+R052,quinoa,65,Edible portion; dry weights specified for dry grains and pulses
+R052,moong_dal_dry,55,Edible portion; dry weights specified for dry grains and pulses
+R052,carrot,35,Edible portion; dry weights specified for dry grains and pulses
+R052,peas,50,Edible portion; dry weights specified for dry grains and pulses
+R052,tomato,40,Edible portion; dry weights specified for dry grains and pulses
+R052,oil,5,Edible portion; dry weights specified for dry grains and pulses
+R052,beans,25,Edible portion; dry weights specified for dry grains and pulses
+R053,quinoa,65,Edible portion; dry weights specified for dry grains and pulses
+R053,moong_dal_dry,55,Edible portion; dry weights specified for dry grains and pulses
+R053,carrot,35,Edible portion; dry weights specified for dry grains and pulses
+R053,peas,25,Edible portion; dry weights specified for dry grains and pulses
+R053,tomato,40,Edible portion; dry weights specified for dry grains and pulses
+R053,oil,5,Edible portion; dry weights specified for dry grains and pulses
+R053,capsicum,25,Edible portion; dry weights specified for dry grains and pulses
+R053,mushroom,25,Edible portion; dry weights specified for dry grains and pulses
+R054,quinoa,65,Edible portion; dry weights specified for dry grains and pulses
+R054,moong_dal_dry,55,Edible portion; dry weights specified for dry grains and pulses
+R054,carrot,35,Edible portion; dry weights specified for dry grains and pulses
+R054,peas,25,Edible portion; dry weights specified for dry grains and pulses
+R054,tomato,65,Edible portion; dry weights specified for dry grains and pulses
+R054,oil,5,Edible portion; dry weights specified for dry grains and pulses
+R054,cauliflower,35,Edible portion; dry weights specified for dry grains and pulses
+R055,quinoa,65,Edible portion; dry weights specified for dry grains and pulses
+R055,moong_dal_dry,55,Edible portion; dry weights specified for dry grains and pulses
+R055,carrot,60,Edible portion; dry weights specified for dry grains and pulses
+R055,peas,25,Edible portion; dry weights specified for dry grains and pulses
+R055,tomato,40,Edible portion; dry weights specified for dry grains and pulses
+R055,oil,5,Edible portion; dry weights specified for dry grains and pulses
+R055,broccoli,30,Edible portion; dry weights specified for dry grains and pulses
+R056,quinoa,65,Edible portion; dry weights specified for dry grains and pulses
+R056,moong_dal_dry,55,Edible portion; dry weights specified for dry grains and pulses
+R056,carrot,35,Edible portion; dry weights specified for dry grains and pulses
+R056,peas,25,Edible portion; dry weights specified for dry grains and pulses
+R056,tomato,40,Edible portion; dry weights specified for dry grains and pulses
+R056,oil,5,Edible portion; dry weights specified for dry grains and pulses
+R056,beetroot,25,Edible portion; dry weights specified for dry grains and pulses
+R056,spinach,25,Edible portion; dry weights specified for dry grains and pulses
+R057,quinoa,65,Edible portion; dry weights specified for dry grains and pulses
+R057,moong_dal_dry,55,Edible portion; dry weights specified for dry grains and pulses
+R057,carrot,35,Edible portion; dry weights specified for dry grains and pulses
+R057,peas,45,Edible portion; dry weights specified for dry grains and pulses
+R057,tomato,40,Edible portion; dry weights specified for dry grains and pulses
+R057,oil,5,Edible portion; dry weights specified for dry grains and pulses
+R057,sweet_potato,35,Edible portion; dry weights specified for dry grains and pulses
+R058,quinoa,65,Edible portion; dry weights specified for dry grains and pulses
+R058,moong_dal_dry,55,Edible portion; dry weights specified for dry grains and pulses
+R058,carrot,35,Edible portion; dry weights specified for dry grains and pulses
+R058,peas,25,Edible portion; dry weights specified for dry grains and pulses
+R058,tomato,65,Edible portion; dry weights specified for dry grains and pulses
+R058,oil,5,Edible portion; dry weights specified for dry grains and pulses
+R058,tofu,35,Edible portion; dry weights specified for dry grains and pulses
+R059,chickpeas_dry,75,Edible portion; dry weights specified for dry grains and pulses
+R059,whole_wheat_flour,90,Edible portion; dry weights specified for dry grains and pulses
+R059,spinach,70,Edible portion; dry weights specified for dry grains and pulses
+R059,tomato,70,Edible portion; dry weights specified for dry grains and pulses
+R059,onion,30,Edible portion; dry weights specified for dry grains and pulses
+R059,oil,5,Edible portion; dry weights specified for dry grains and pulses
+R059,peas,25,Edible portion; dry weights specified for dry grains and pulses
+R059,beans,25,Edible portion; dry weights specified for dry grains and pulses
+R060,chickpeas_dry,75,Edible portion; dry weights specified for dry grains and pulses
+R060,whole_wheat_flour,90,Edible portion; dry weights specified for dry grains and pulses
+R060,spinach,70,Edible portion; dry weights specified for dry grains and pulses
+R060,tomato,70,Edible portion; dry weights specified for dry grains and pulses
+R060,onion,30,Edible portion; dry weights specified for dry grains and pulses
+R060,oil,5,Edible portion; dry weights specified for dry grains and pulses
+R060,capsicum,25,Edible portion; dry weights specified for dry grains and pulses
+R060,mushroom,25,Edible portion; dry weights specified for dry grains and pulses
+R061,chickpeas_dry,75,Edible portion; dry weights specified for dry grains and pulses
+R061,whole_wheat_flour,90,Edible portion; dry weights specified for dry grains and pulses
+R061,spinach,70,Edible portion; dry weights specified for dry grains and pulses
+R061,tomato,95,Edible portion; dry weights specified for dry grains and pulses
+R061,onion,30,Edible portion; dry weights specified for dry grains and pulses
+R061,oil,5,Edible portion; dry weights specified for dry grains and pulses
+R061,cauliflower,35,Edible portion; dry weights specified for dry grains and pulses
+R062,chickpeas_dry,75,Edible portion; dry weights specified for dry grains and pulses
+R062,whole_wheat_flour,90,Edible portion; dry weights specified for dry grains and pulses
+R062,spinach,70,Edible portion; dry weights specified for dry grains and pulses
+R062,tomato,70,Edible portion; dry weights specified for dry grains and pulses
+R062,onion,30,Edible portion; dry weights specified for dry grains and pulses
+R062,oil,5,Edible portion; dry weights specified for dry grains and pulses
+R062,broccoli,30,Edible portion; dry weights specified for dry grains and pulses
+R062,carrot,25,Edible portion; dry weights specified for dry grains and pulses
+R063,chickpeas_dry,75,Edible portion; dry weights specified for dry grains and pulses
+R063,whole_wheat_flour,90,Edible portion; dry weights specified for dry grains and pulses
+R063,spinach,95,Edible portion; dry weights specified for dry grains and pulses
+R063,tomato,70,Edible portion; dry weights specified for dry grains and pulses
+R063,onion,30,Edible portion; dry weights specified for dry grains and pulses
+R063,oil,5,Edible portion; dry weights specified for dry grains and pulses
+R063,beetroot,25,Edible portion; dry weights specified for dry grains and pulses
+R064,chickpeas_dry,75,Edible portion; dry weights specified for dry grains and pulses
+R064,whole_wheat_flour,90,Edible portion; dry weights specified for dry grains and pulses
+R064,spinach,70,Edible portion; dry weights specified for dry grains and pulses
+R064,tomato,70,Edible portion; dry weights specified for dry grains and pulses
+R064,onion,30,Edible portion; dry weights specified for dry grains and pulses
+R064,oil,5,Edible portion; dry weights specified for dry grains and pulses
+R064,sweet_potato,35,Edible portion; dry weights specified for dry grains and pulses
+R064,peas,20,Edible portion; dry weights specified for dry grains and pulses
+R065,chickpeas_dry,75,Edible portion; dry weights specified for dry grains and pulses
+R065,whole_wheat_flour,90,Edible portion; dry weights specified for dry grains and pulses
+R065,spinach,70,Edible portion; dry weights specified for dry grains and pulses
+R065,tomato,95,Edible portion; dry weights specified for dry grains and pulses
+R065,onion,30,Edible portion; dry weights specified for dry grains and pulses
+R065,oil,5,Edible portion; dry weights specified for dry grains and pulses
+R065,tofu,35,Edible portion; dry weights specified for dry grains and pulses
+R066,tofu,140,Edible portion; dry weights specified for dry grains and pulses
+R066,quinoa,75,Edible portion; dry weights specified for dry grains and pulses
+R066,broccoli,60,Edible portion; dry weights specified for dry grains and pulses
+R066,carrot,40,Edible portion; dry weights specified for dry grains and pulses
+R066,capsicum,35,Edible portion; dry weights specified for dry grains and pulses
+R066,oil,5,Edible portion; dry weights specified for dry grains and pulses
+R066,peas,25,Edible portion; dry weights specified for dry grains and pulses
+R066,beans,25,Edible portion; dry weights specified for dry grains and pulses
+R067,tofu,140,Edible portion; dry weights specified for dry grains and pulses
+R067,quinoa,75,Edible portion; dry weights specified for dry grains and pulses
+R067,broccoli,60,Edible portion; dry weights specified for dry grains and pulses
+R067,carrot,40,Edible portion; dry weights specified for dry grains and pulses
+R067,capsicum,60,Edible portion; dry weights specified for dry grains and pulses
+R067,oil,5,Edible portion; dry weights specified for dry grains and pulses
+R067,mushroom,25,Edible portion; dry weights specified for dry grains and pulses
+R068,tofu,140,Edible portion; dry weights specified for dry grains and pulses
+R068,quinoa,75,Edible portion; dry weights specified for dry grains and pulses
+R068,broccoli,60,Edible portion; dry weights specified for dry grains and pulses
+R068,carrot,40,Edible portion; dry weights specified for dry grains and pulses
+R068,capsicum,35,Edible portion; dry weights specified for dry grains and pulses
+R068,oil,5,Edible portion; dry weights specified for dry grains and pulses
+R068,cauliflower,35,Edible portion; dry weights specified for dry grains and pulses
+R068,tomato,25,Edible portion; dry weights specified for dry grains and pulses
+R069,tofu,140,Edible portion; dry weights specified for dry grains and pulses
+R069,quinoa,75,Edible portion; dry weights specified for dry grains and pulses
+R069,broccoli,90,Edible portion; dry weights specified for dry grains and pulses
+R069,carrot,65,Edible portion; dry weights specified for dry grains and pulses
+R069,capsicum,35,Edible portion; dry weights specified for dry grains and pulses
+R069,oil,5,Edible portion; dry weights specified for dry grains and pulses
+R070,tofu,140,Edible portion; dry weights specified for dry grains and pulses
+R070,quinoa,75,Edible portion; dry weights specified for dry grains and pulses
+R070,broccoli,60,Edible portion; dry weights specified for dry grains and pulses
+R070,carrot,40,Edible portion; dry weights specified for dry grains and pulses
+R070,capsicum,35,Edible portion; dry weights specified for dry grains and pulses
+R070,oil,5,Edible portion; dry weights specified for dry grains and pulses
+R070,beetroot,25,Edible portion; dry weights specified for dry grains and pulses
+R070,spinach,25,Edible portion; dry weights specified for dry grains and pulses
+R071,tofu,140,Edible portion; dry weights specified for dry grains and pulses
+R071,quinoa,75,Edible portion; dry weights specified for dry grains and pulses
+R071,broccoli,60,Edible portion; dry weights specified for dry grains and pulses
+R071,carrot,40,Edible portion; dry weights specified for dry grains and pulses
+R071,capsicum,35,Edible portion; dry weights specified for dry grains and pulses
+R071,oil,5,Edible portion; dry weights specified for dry grains and pulses
+R071,sweet_potato,35,Edible portion; dry weights specified for dry grains and pulses
+R071,peas,20,Edible portion; dry weights specified for dry grains and pulses
+R072,tofu,175,Edible portion; dry weights specified for dry grains and pulses
+R072,quinoa,75,Edible portion; dry weights specified for dry grains and pulses
+R072,broccoli,60,Edible portion; dry weights specified for dry grains and pulses
+R072,carrot,40,Edible portion; dry weights specified for dry grains and pulses
+R072,capsicum,35,Edible portion; dry weights specified for dry grains and pulses
+R072,oil,5,Edible portion; dry weights specified for dry grains and pulses
+R072,tomato,25,Edible portion; dry weights specified for dry grains and pulses
+R073,paneer,110,Edible portion; dry weights specified for dry grains and pulses
+R073,quinoa,65,Edible portion; dry weights specified for dry grains and pulses
+R073,peas,55,Edible portion; dry weights specified for dry grains and pulses
+R073,spinach,40,Edible portion; dry weights specified for dry grains and pulses
+R073,tomato,50,Edible portion; dry weights specified for dry grains and pulses
+R073,oil,4,Edible portion; dry weights specified for dry grains and pulses
+R073,beans,25,Edible portion; dry weights specified for dry grains and pulses
+R074,paneer,110,Edible portion; dry weights specified for dry grains and pulses
+R074,quinoa,65,Edible portion; dry weights specified for dry grains and pulses
+R074,peas,30,Edible portion; dry weights specified for dry grains and pulses
+R074,spinach,40,Edible portion; dry weights specified for dry grains and pulses
+R074,tomato,50,Edible portion; dry weights specified for dry grains and pulses
+R074,oil,4,Edible portion; dry weights specified for dry grains and pulses
+R074,capsicum,25,Edible portion; dry weights specified for dry grains and pulses
+R074,mushroom,25,Edible portion; dry weights specified for dry grains and pulses
+R075,paneer,110,Edible portion; dry weights specified for dry grains and pulses
+R075,quinoa,65,Edible portion; dry weights specified for dry grains and pulses
+R075,peas,30,Edible portion; dry weights specified for dry grains and pulses
+R075,spinach,40,Edible portion; dry weights specified for dry grains and pulses
+R075,tomato,75,Edible portion; dry weights specified for dry grains and pulses
+R075,oil,4,Edible portion; dry weights specified for dry grains and pulses
+R075,cauliflower,35,Edible portion; dry weights specified for dry grains and pulses
+R076,paneer,110,Edible portion; dry weights specified for dry grains and pulses
+R076,quinoa,65,Edible portion; dry weights specified for dry grains and pulses
+R076,peas,30,Edible portion; dry weights specified for dry grains and pulses
+R076,spinach,40,Edible portion; dry weights specified for dry grains and pulses
+R076,tomato,50,Edible portion; dry weights specified for dry grains and pulses
+R076,oil,4,Edible portion; dry weights specified for dry grains and pulses
+R076,broccoli,30,Edible portion; dry weights specified for dry grains and pulses
+R076,carrot,25,Edible portion; dry weights specified for dry grains and pulses
+R077,paneer,110,Edible portion; dry weights specified for dry grains and pulses
+R077,quinoa,65,Edible portion; dry weights specified for dry grains and pulses
+R077,peas,30,Edible portion; dry weights specified for dry grains and pulses
+R077,spinach,65,Edible portion; dry weights specified for dry grains and pulses
+R077,tomato,50,Edible portion; dry weights specified for dry grains and pulses
+R077,oil,4,Edible portion; dry weights specified for dry grains and pulses
+R077,beetroot,25,Edible portion; dry weights specified for dry grains and pulses
+R078,paneer,110,Edible portion; dry weights specified for dry grains and pulses
+R078,quinoa,65,Edible portion; dry weights specified for dry grains and pulses
+R078,peas,50,Edible portion; dry weights specified for dry grains and pulses
+R078,spinach,40,Edible portion; dry weights specified for dry grains and pulses
+R078,tomato,50,Edible portion; dry weights specified for dry grains and pulses
+R078,oil,4,Edible portion; dry weights specified for dry grains and pulses
+R078,sweet_potato,35,Edible portion; dry weights specified for dry grains and pulses
+R079,paneer,110,Edible portion; dry weights specified for dry grains and pulses
+R079,quinoa,65,Edible portion; dry weights specified for dry grains and pulses
+R079,peas,30,Edible portion; dry weights specified for dry grains and pulses
+R079,spinach,40,Edible portion; dry weights specified for dry grains and pulses
+R079,tomato,75,Edible portion; dry weights specified for dry grains and pulses
+R079,oil,4,Edible portion; dry weights specified for dry grains and pulses
+R079,tofu,35,Edible portion; dry weights specified for dry grains and pulses
+R080,masoor_dal_dry,75,Edible portion; dry weights specified for dry grains and pulses
+R080,carrot,45,Edible portion; dry weights specified for dry grains and pulses
+R080,tomato,70,Edible portion; dry weights specified for dry grains and pulses
+R080,spinach,35,Edible portion; dry weights specified for dry grains and pulses
+R080,onion,25,Edible portion; dry weights specified for dry grains and pulses
+R080,oil,3,Edible portion; dry weights specified for dry grains and pulses
+R080,peas,25,Edible portion; dry weights specified for dry grains and pulses
+R080,beans,25,Edible portion; dry weights specified for dry grains and pulses
+R081,masoor_dal_dry,75,Edible portion; dry weights specified for dry grains and pulses
+R081,carrot,45,Edible portion; dry weights specified for dry grains and pulses
+R081,tomato,70,Edible portion; dry weights specified for dry grains and pulses
+R081,spinach,35,Edible portion; dry weights specified for dry grains and pulses
+R081,onion,25,Edible portion; dry weights specified for dry grains and pulses
+R081,oil,3,Edible portion; dry weights specified for dry grains and pulses
+R081,capsicum,25,Edible portion; dry weights specified for dry grains and pulses
+R081,mushroom,25,Edible portion; dry weights specified for dry grains and pulses
+R082,masoor_dal_dry,75,Edible portion; dry weights specified for dry grains and pulses
+R082,carrot,45,Edible portion; dry weights specified for dry grains and pulses
+R082,tomato,95,Edible portion; dry weights specified for dry grains and pulses
+R082,spinach,35,Edible portion; dry weights specified for dry grains and pulses
+R082,onion,25,Edible portion; dry weights specified for dry grains and pulses
+R082,oil,3,Edible portion; dry weights specified for dry grains and pulses
+R082,cauliflower,35,Edible portion; dry weights specified for dry grains and pulses
+R083,masoor_dal_dry,75,Edible portion; dry weights specified for dry grains and pulses
+R083,carrot,70,Edible portion; dry weights specified for dry grains and pulses
+R083,tomato,70,Edible portion; dry weights specified for dry grains and pulses
+R083,spinach,35,Edible portion; dry weights specified for dry grains and pulses
+R083,onion,25,Edible portion; dry weights specified for dry grains and pulses
+R083,oil,3,Edible portion; dry weights specified for dry grains and pulses
+R083,broccoli,30,Edible portion; dry weights specified for dry grains and pulses
+R084,masoor_dal_dry,75,Edible portion; dry weights specified for dry grains and pulses
+R084,carrot,45,Edible portion; dry weights specified for dry grains and pulses
+R084,tomato,70,Edible portion; dry weights specified for dry grains and pulses
+R084,spinach,60,Edible portion; dry weights specified for dry grains and pulses
+R084,onion,25,Edible portion; dry weights specified for dry grains and pulses
+R084,oil,3,Edible portion; dry weights specified for dry grains and pulses
+R084,beetroot,25,Edible portion; dry weights specified for dry grains and pulses
+R085,masoor_dal_dry,75,Edible portion; dry weights specified for dry grains and pulses
+R085,carrot,45,Edible portion; dry weights specified for dry grains and pulses
+R085,tomato,70,Edible portion; dry weights specified for dry grains and pulses
+R085,spinach,35,Edible portion; dry weights specified for dry grains and pulses
+R085,onion,25,Edible portion; dry weights specified for dry grains and pulses
+R085,oil,3,Edible portion; dry weights specified for dry grains and pulses
+R085,sweet_potato,35,Edible portion; dry weights specified for dry grains and pulses
+R085,peas,20,Edible portion; dry weights specified for dry grains and pulses
+R086,masoor_dal_dry,75,Edible portion; dry weights specified for dry grains and pulses
+R086,carrot,45,Edible portion; dry weights specified for dry grains and pulses
+R086,tomato,95,Edible portion; dry weights specified for dry grains and pulses
+R086,spinach,35,Edible portion; dry weights specified for dry grains and pulses
+R086,onion,25,Edible portion; dry weights specified for dry grains and pulses
+R086,oil,3,Edible portion; dry weights specified for dry grains and pulses
+R086,tofu,35,Edible portion; dry weights specified for dry grains and pulses
+R087,sweet_potato,160,Edible portion; dry weights specified for dry grains and pulses
+R087,chickpeas_dry,60,Edible portion; dry weights specified for dry grains and pulses
+R087,cucumber,35,Edible portion; dry weights specified for dry grains and pulses
+R087,tomato,35,Edible portion; dry weights specified for dry grains and pulses
+R087,lemon,10,Edible portion; dry weights specified for dry grains and pulses
+R087,coriander,5,Edible portion; dry weights specified for dry grains and pulses
+R087,peas,25,Edible portion; dry weights specified for dry grains and pulses
+R087,beans,25,Edible portion; dry weights specified for dry grains and pulses
+R088,sweet_potato,160,Edible portion; dry weights specified for dry grains and pulses
+R088,chickpeas_dry,60,Edible portion; dry weights specified for dry grains and pulses
+R088,cucumber,35,Edible portion; dry weights specified for dry grains and pulses
+R088,tomato,35,Edible portion; dry weights specified for dry grains and pulses
+R088,lemon,10,Edible portion; dry weights specified for dry grains and pulses
+R088,coriander,5,Edible portion; dry weights specified for dry grains and pulses
+R088,capsicum,25,Edible portion; dry weights specified for dry grains and pulses
+R088,mushroom,25,Edible portion; dry weights specified for dry grains and pulses
+R089,sweet_potato,160,Edible portion; dry weights specified for dry grains and pulses
+R089,chickpeas_dry,60,Edible portion; dry weights specified for dry grains and pulses
+R089,cucumber,35,Edible portion; dry weights specified for dry grains and pulses
+R089,tomato,60,Edible portion; dry weights specified for dry grains and pulses
+R089,lemon,10,Edible portion; dry weights specified for dry grains and pulses
+R089,coriander,5,Edible portion; dry weights specified for dry grains and pulses
+R089,cauliflower,35,Edible portion; dry weights specified for dry grains and pulses
+R090,sweet_potato,160,Edible portion; dry weights specified for dry grains and pulses
+R090,chickpeas_dry,60,Edible portion; dry weights specified for dry grains and pulses
+R090,cucumber,35,Edible portion; dry weights specified for dry grains and pulses
+R090,tomato,35,Edible portion; dry weights specified for dry grains and pulses
+R090,lemon,10,Edible portion; dry weights specified for dry grains and pulses
+R090,coriander,5,Edible portion; dry weights specified for dry grains and pulses
+R090,broccoli,30,Edible portion; dry weights specified for dry grains and pulses
+R090,carrot,25,Edible portion; dry weights specified for dry grains and pulses
+R091,sweet_potato,160,Edible portion; dry weights specified for dry grains and pulses
+R091,chickpeas_dry,60,Edible portion; dry weights specified for dry grains and pulses
+R091,cucumber,35,Edible portion; dry weights specified for dry grains and pulses
+R091,tomato,35,Edible portion; dry weights specified for dry grains and pulses
+R091,lemon,10,Edible portion; dry weights specified for dry grains and pulses
+R091,coriander,5,Edible portion; dry weights specified for dry grains and pulses
+R091,beetroot,25,Edible portion; dry weights specified for dry grains and pulses
+R091,spinach,25,Edible portion; dry weights specified for dry grains and pulses
+R092,sweet_potato,195,Edible portion; dry weights specified for dry grains and pulses
+R092,chickpeas_dry,60,Edible portion; dry weights specified for dry grains and pulses
+R092,cucumber,35,Edible portion; dry weights specified for dry grains and pulses
+R092,tomato,35,Edible portion; dry weights specified for dry grains and pulses
+R092,lemon,10,Edible portion; dry weights specified for dry grains and pulses
+R092,coriander,5,Edible portion; dry weights specified for dry grains and pulses
+R092,peas,20,Edible portion; dry weights specified for dry grains and pulses
+R093,sweet_potato,160,Edible portion; dry weights specified for dry grains and pulses
+R093,chickpeas_dry,60,Edible portion; dry weights specified for dry grains and pulses
+R093,cucumber,35,Edible portion; dry weights specified for dry grains and pulses
+R093,tomato,60,Edible portion; dry weights specified for dry grains and pulses
+R093,lemon,10,Edible portion; dry weights specified for dry grains and pulses
+R093,coriander,5,Edible portion; dry weights specified for dry grains and pulses
+R093,tofu,35,Edible portion; dry weights specified for dry grains and pulses
+R094,oats,65,Edible portion; dry weights specified for dry grains and pulses
+R094,besan,35,Edible portion; dry weights specified for dry grains and pulses
+R094,curd,35,Edible portion; dry weights specified for dry grains and pulses
+R094,carrot,25,Edible portion; dry weights specified for dry grains and pulses
+R094,spinach,25,Edible portion; dry weights specified for dry grains and pulses
+R094,oil,5,Edible portion; dry weights specified for dry grains and pulses
+R094,peas,25,Edible portion; dry weights specified for dry grains and pulses
+R094,beans,25,Edible portion; dry weights specified for dry grains and pulses
+R095,oats,65,Edible portion; dry weights specified for dry grains and pulses
+R095,besan,35,Edible portion; dry weights specified for dry grains and pulses
+R095,curd,35,Edible portion; dry weights specified for dry grains and pulses
+R095,carrot,25,Edible portion; dry weights specified for dry grains and pulses
+R095,spinach,25,Edible portion; dry weights specified for dry grains and pulses
+R095,oil,5,Edible portion; dry weights specified for dry grains and pulses
+R095,capsicum,25,Edible portion; dry weights specified for dry grains and pulses
+R095,mushroom,25,Edible portion; dry weights specified for dry grains and pulses
+R096,oats,65,Edible portion; dry weights specified for dry grains and pulses
+R096,besan,35,Edible portion; dry weights specified for dry grains and pulses
+R096,curd,35,Edible portion; dry weights specified for dry grains and pulses
+R096,carrot,25,Edible portion; dry weights specified for dry grains and pulses
+R096,spinach,25,Edible portion; dry weights specified for dry grains and pulses
+R096,oil,5,Edible portion; dry weights specified for dry grains and pulses
+R096,cauliflower,35,Edible portion; dry weights specified for dry grains and pulses
+R096,tomato,25,Edible portion; dry weights specified for dry grains and pulses
+R097,oats,65,Edible portion; dry weights specified for dry grains and pulses
+R097,besan,35,Edible portion; dry weights specified for dry grains and pulses
+R097,curd,35,Edible portion; dry weights specified for dry grains and pulses
+R097,carrot,50,Edible portion; dry weights specified for dry grains and pulses
+R097,spinach,25,Edible portion; dry weights specified for dry grains and pulses
+R097,oil,5,Edible portion; dry weights specified for dry grains and pulses
+R097,broccoli,30,Edible portion; dry weights specified for dry grains and pulses
+R098,oats,65,Edible portion; dry weights specified for dry grains and pulses
+R098,besan,35,Edible portion; dry weights specified for dry grains and pulses
+R098,curd,35,Edible portion; dry weights specified for dry grains and pulses
+R098,carrot,25,Edible portion; dry weights specified for dry grains and pulses
+R098,spinach,50,Edible portion; dry weights specified for dry grains and pulses
+R098,oil,5,Edible portion; dry weights specified for dry grains and pulses
+R098,beetroot,25,Edible portion; dry weights specified for dry grains and pulses
+R099,oats,65,Edible portion; dry weights specified for dry grains and pulses
+R099,besan,35,Edible portion; dry weights specified for dry grains and pulses
+R099,curd,35,Edible portion; dry weights specified for dry grains and pulses
+R099,carrot,25,Edible portion; dry weights specified for dry grains and pulses
+R099,spinach,25,Edible portion; dry weights specified for dry grains and pulses
+R099,oil,5,Edible portion; dry weights specified for dry grains and pulses
+R099,sweet_potato,35,Edible portion; dry weights specified for dry grains and pulses
+R099,peas,20,Edible portion; dry weights specified for dry grains and pulses
+R100,oats,65,Edible portion; dry weights specified for dry grains and pulses
+R100,besan,35,Edible portion; dry weights specified for dry grains and pulses
+R100,curd,35,Edible portion; dry weights specified for dry grains and pulses
+R100,carrot,25,Edible portion; dry weights specified for dry grains and pulses
+R100,spinach,25,Edible portion; dry weights specified for dry grains and pulses
+R100,oil,5,Edible portion; dry weights specified for dry grains and pulses
+R100,tofu,35,Edible portion; dry weights specified for dry grains and pulses
+R100,tomato,25,Edible portion; dry weights specified for dry grains and pulses
+R101,egg,100,Approximate edible-portion quantity for the full recipe batch.
+R101,onion,25,Approximate edible-portion quantity for the full recipe batch.
+R101,tomato,30,Approximate edible-portion quantity for the full recipe batch.
+R101,green_chilli,3,Approximate edible-portion quantity for the full recipe batch.
+R101,coriander,4,Approximate edible-portion quantity for the full recipe batch.
+R101,oil,5,Approximate edible-portion quantity for the full recipe batch.
+R101,bread_whole,60,Approximate edible-portion quantity for the full recipe batch.
+R102,egg,100,Approximate edible-portion quantity for the full recipe batch.
+R102,onion,35,Approximate edible-portion quantity for the full recipe batch.
+R102,tomato,45,Approximate edible-portion quantity for the full recipe batch.
+R102,green_chilli,3,Approximate edible-portion quantity for the full recipe batch.
+R102,oil,5,Approximate edible-portion quantity for the full recipe batch.
+R102,coriander,4,Approximate edible-portion quantity for the full recipe batch.
+R103,egg,100,Approximate edible-portion quantity for the full recipe batch.
+R103,chickpeas_dry,45,Approximate edible-portion quantity for the full recipe batch.
+R103,cucumber,50,Approximate edible-portion quantity for the full recipe batch.
+R103,tomato,40,Approximate edible-portion quantity for the full recipe batch.
+R103,lemon,10,Approximate edible-portion quantity for the full recipe batch.
+R103,coriander,4,Approximate edible-portion quantity for the full recipe batch.
+R104,oats,45,Approximate edible-portion quantity for the full recipe batch.
+R104,chicken_breast,80,Approximate edible-portion quantity for the full recipe batch.
+R104,onion,20,Approximate edible-portion quantity for the full recipe batch.
+R104,carrot,25,Approximate edible-portion quantity for the full recipe batch.
+R104,oil,3,Approximate edible-portion quantity for the full recipe batch.
+R104,ginger,3,Approximate edible-portion quantity for the full recipe batch.
+R105,chicken_breast,90,Approximate edible-portion quantity for the full recipe batch.
+R105,bread_whole,80,Approximate edible-portion quantity for the full recipe batch.
+R105,cucumber,25,Approximate edible-portion quantity for the full recipe batch.
+R105,tomato,25,Approximate edible-portion quantity for the full recipe batch.
+R105,curd,15,Approximate edible-portion quantity for the full recipe batch.
+R106,chicken_thigh,180,Approximate edible-portion quantity for the full recipe batch.
+R106,rice_raw,100,Approximate edible-portion quantity for the full recipe batch.
+R106,onion,60,Approximate edible-portion quantity for the full recipe batch.
+R106,tomato,80,Approximate edible-portion quantity for the full recipe batch.
+R106,ginger,5,Approximate edible-portion quantity for the full recipe batch.
+R106,garlic,6,Approximate edible-portion quantity for the full recipe batch.
+R106,oil,8,Approximate edible-portion quantity for the full recipe batch.
+R106,coriander,5,Approximate edible-portion quantity for the full recipe batch.
+R107,chicken_thigh,180,Approximate edible-portion quantity for the full recipe batch.
+R107,whole_wheat_flour,80,Approximate edible-portion quantity for the full recipe batch.
+R107,onion,60,Approximate edible-portion quantity for the full recipe batch.
+R107,tomato,70,Approximate edible-portion quantity for the full recipe batch.
+R107,curd,30,Approximate edible-portion quantity for the full recipe batch.
+R107,oil,8,Approximate edible-portion quantity for the full recipe batch.
+R107,ginger,5,Approximate edible-portion quantity for the full recipe batch.
+R107,garlic,5,Approximate edible-portion quantity for the full recipe batch.
+R108,fish,180,Approximate edible-portion quantity for the full recipe batch.
+R108,rice_raw,100,Approximate edible-portion quantity for the full recipe batch.
+R108,tomato,80,Approximate edible-portion quantity for the full recipe batch.
+R108,onion,40,Approximate edible-portion quantity for the full recipe batch.
+R108,coconut,15,Approximate edible-portion quantity for the full recipe batch.
+R108,oil,7,Approximate edible-portion quantity for the full recipe batch.
+R108,garlic,4,Approximate edible-portion quantity for the full recipe batch.
+R108,curry_leaves,2,Approximate edible-portion quantity for the full recipe batch.
+R109,egg,100,Approximate edible-portion quantity for the full recipe batch.
+R109,rice_raw,75,Approximate edible-portion quantity for the full recipe batch.
+R109,tomato,60,Approximate edible-portion quantity for the full recipe batch.
+R109,onion,30,Approximate edible-portion quantity for the full recipe batch.
+R109,oil,5,Approximate edible-portion quantity for the full recipe batch.
+R109,curry_leaves,2,Approximate edible-portion quantity for the full recipe batch.
+R110,prawns,120,Approximate edible-portion quantity for the full recipe batch.
+R110,rice_raw,65,Approximate edible-portion quantity for the full recipe batch.
+R110,capsicum,40,Approximate edible-portion quantity for the full recipe batch.
+R110,onion,30,Approximate edible-portion quantity for the full recipe batch.
+R110,garlic,5,Approximate edible-portion quantity for the full recipe batch.
+R110,oil,5,Approximate edible-portion quantity for the full recipe batch.
+R111,chicken_breast,130,Approximate edible-portion quantity for the full recipe batch.
+R111,curd,35,Approximate edible-portion quantity for the full recipe batch.
+R111,rice_raw,45,Approximate edible-portion quantity for the full recipe batch.
+R111,cucumber,50,Approximate edible-portion quantity for the full recipe batch.
+R111,onion,20,Approximate edible-portion quantity for the full recipe batch.
+R111,oil,4,Approximate edible-portion quantity for the full recipe batch.
+R112,fish,140,Approximate edible-portion quantity for the full recipe batch.
+R112,broccoli,100,Approximate edible-portion quantity for the full recipe batch.
+R112,carrot,60,Approximate edible-portion quantity for the full recipe batch.
+R112,lemon,10,Approximate edible-portion quantity for the full recipe batch.
+R112,oil,5,Approximate edible-portion quantity for the full recipe batch.
+R113,egg,100,Approximate edible-portion quantity for the full recipe batch.
+R113,whole_wheat_flour,55,Approximate edible-portion quantity for the full recipe batch.
+R113,onion,45,Approximate edible-portion quantity for the full recipe batch.
+R113,tomato,60,Approximate edible-portion quantity for the full recipe batch.
+R113,oil,6,Approximate edible-portion quantity for the full recipe batch.
+R113,curd,20,Approximate edible-portion quantity for the full recipe batch.
+R114,chicken_breast,100,Approximate edible-portion quantity for the full recipe batch.
+R114,carrot,40,Approximate edible-portion quantity for the full recipe batch.
+R114,beans,40,Approximate edible-portion quantity for the full recipe batch.
+R114,onion,25,Approximate edible-portion quantity for the full recipe batch.
+R114,ginger,4,Approximate edible-portion quantity for the full recipe batch.
+R115,prawns,160,Approximate edible-portion quantity for the full recipe batch.
+R115,coconut_milk,50,Approximate edible-portion quantity for the full recipe batch.
+R115,tomato,60,Approximate edible-portion quantity for the full recipe batch.
+R115,onion,35,Approximate edible-portion quantity for the full recipe batch.
+R115,curry_leaves,2,Approximate edible-portion quantity for the full recipe batch.
+R115,oil,5,Approximate edible-portion quantity for the full recipe batch.
+R116,paneer,80,Approximate edible-portion quantity for the full recipe batch.
+R116,whole_wheat_flour,55,Approximate edible-portion quantity for the full recipe batch.
+R116,capsicum,35,Approximate edible-portion quantity for the full recipe batch.
+R116,onion,25,Approximate edible-portion quantity for the full recipe batch.
+R116,curd,20,Approximate edible-portion quantity for the full recipe batch.
+R116,oil,4,Approximate edible-portion quantity for the full recipe batch.
+R117,whole_wheat_flour,45,Approximate edible-portion quantity for the full recipe batch.
+R117,moong_dal_dry,30,Approximate edible-portion quantity for the full recipe batch.
+R117,carrot,30,Approximate edible-portion quantity for the full recipe batch.
+R117,peas,25,Approximate edible-portion quantity for the full recipe batch.
+R117,beans,25,Approximate edible-portion quantity for the full recipe batch.
+R117,oil,4,Approximate edible-portion quantity for the full recipe batch.
+R118,rice_raw,65,Approximate edible-portion quantity for the full recipe batch.
+R118,curd,100,Approximate edible-portion quantity for the full recipe batch.
+R118,peanuts,5,Approximate edible-portion quantity for the full recipe batch.
+R118,oil,3,Approximate edible-portion quantity for the full recipe batch.
+R119,tofu,130,Approximate edible-portion quantity for the full recipe batch.
+R119,onion,30,Approximate edible-portion quantity for the full recipe batch.
+R119,tomato,50,Approximate edible-portion quantity for the full recipe batch.
+R119,capsicum,25,Approximate edible-portion quantity for the full recipe batch.
+R119,oil,4,Approximate edible-portion quantity for the full recipe batch.
+R120,chickpeas_dry,55,Approximate edible-portion quantity for the full recipe batch.
+R120,spinach,70,Approximate edible-portion quantity for the full recipe batch.
+R120,tomato,60,Approximate edible-portion quantity for the full recipe batch.
+R120,onion,25,Approximate edible-portion quantity for the full recipe batch.
+R120,oil,4,Approximate edible-portion quantity for the full recipe batch.
+R121,yogurt_greek,150,Approximate edible-portion quantity for the full recipe batch.
+R121,banana,50,Approximate edible-portion quantity for the full recipe batch.
+R121,apple,50,Approximate edible-portion quantity for the full recipe batch.
+R121,chia,5,Approximate edible-portion quantity for the full recipe batch.
+R122,egg,50,Approximate edible-portion quantity for the full recipe batch.
+R122,cucumber,80,Approximate edible-portion quantity for the full recipe batch.
+R122,lemon,5,Approximate edible-portion quantity for the full recipe batch.
+R123,chickpeas_dry,35,Approximate edible-portion quantity for the full recipe batch.
+R123,onion,15,Approximate edible-portion quantity for the full recipe batch.
+R123,tomato,20,Approximate edible-portion quantity for the full recipe batch.
+R123,lemon,5,Approximate edible-portion quantity for the full recipe batch.
+R124,chicken_breast,110,Approximate edible-portion quantity for the full recipe batch.
+R124,cucumber,50,Approximate edible-portion quantity for the full recipe batch.
+R124,tomato,40,Approximate edible-portion quantity for the full recipe batch.
+R124,carrot,30,Approximate edible-portion quantity for the full recipe batch.
+R124,lemon,8,Approximate edible-portion quantity for the full recipe batch.
+R124,oil,3,Approximate edible-portion quantity for the full recipe batch.
+R125,moong_dal_dry,90,Measured recipe quantity; season to taste
+R125,toor_dal_dry,40,Measured recipe quantity; season to taste
+R125,masoor_dal_dry,40,Measured recipe quantity; season to taste
+R125,chickpeas_dry,40,Measured recipe quantity; season to taste
+R125,onion,55,Measured recipe quantity; season to taste
+R125,tomato,55,Measured recipe quantity; season to taste
+R125,ginger,8,Measured recipe quantity; season to taste
+R125,garlic,8,Measured recipe quantity; season to taste
+R125,cumin,8,Measured recipe quantity; season to taste
+R126,moong_dal_dry,90,Measured recipe quantity; season to taste
+R126,toor_dal_dry,40,Measured recipe quantity; season to taste
+R126,masoor_dal_dry,40,Measured recipe quantity; season to taste
+R126,chickpeas_dry,40,Measured recipe quantity; season to taste
+R126,onion,55,Measured recipe quantity; season to taste
+R126,tomato,55,Measured recipe quantity; season to taste
+R126,ginger,8,Measured recipe quantity; season to taste
+R126,garlic,8,Measured recipe quantity; season to taste
+R126,cumin,8,Measured recipe quantity; season to taste
+R127,oats,90,Measured recipe quantity; season to taste
+R127,poha,40,Measured recipe quantity; season to taste
+R127,semolina,40,Measured recipe quantity; season to taste
+R127,moong_dal_dry,40,Measured recipe quantity; season to taste
+R127,onion,55,Measured recipe quantity; season to taste
+R127,carrot,55,Measured recipe quantity; season to taste
+R127,peas,55,Measured recipe quantity; season to taste
+R127,ginger,8,Measured recipe quantity; season to taste
+R127,oil,12,Measured recipe quantity; season to taste
+R128,potato,55,Measured recipe quantity; season to taste
+R128,onion,55,Measured recipe quantity; season to taste
+R128,tomato,55,Measured recipe quantity; season to taste
+R128,spinach,55,Measured recipe quantity; season to taste
+R128,carrot,55,Measured recipe quantity; season to taste
+R128,beans,55,Measured recipe quantity; season to taste
+R128,cauliflower,55,Measured recipe quantity; season to taste
+R128,capsicum,55,Measured recipe quantity; season to taste
+R128,ginger,8,Measured recipe quantity; season to taste
+R129,potato,55,Measured recipe quantity; season to taste
+R129,onion,55,Measured recipe quantity; season to taste
+R129,tomato,55,Measured recipe quantity; season to taste
+R129,spinach,55,Measured recipe quantity; season to taste
+R129,carrot,55,Measured recipe quantity; season to taste
+R129,beans,55,Measured recipe quantity; season to taste
+R129,cauliflower,55,Measured recipe quantity; season to taste
+R129,capsicum,55,Measured recipe quantity; season to taste
+R129,ginger,8,Measured recipe quantity; season to taste
+R130,moong_dal_dry,90,Measured recipe quantity; season to taste
+R130,toor_dal_dry,40,Measured recipe quantity; season to taste
+R130,masoor_dal_dry,40,Measured recipe quantity; season to taste
+R130,chickpeas_dry,40,Measured recipe quantity; season to taste
+R130,onion,55,Measured recipe quantity; season to taste
+R130,tomato,55,Measured recipe quantity; season to taste
+R130,ginger,8,Measured recipe quantity; season to taste
+R130,garlic,8,Measured recipe quantity; season to taste
+R130,cumin,8,Measured recipe quantity; season to taste
+R131,chicken_breast,220,Measured recipe quantity; season to taste
+R131,onion,55,Measured recipe quantity; season to taste
+R131,tomato,55,Measured recipe quantity; season to taste
+R131,curd,90,Measured recipe quantity; season to taste
+R131,ginger,8,Measured recipe quantity; season to taste
+R131,garlic,8,Measured recipe quantity; season to taste
+R131,oil,12,Measured recipe quantity; season to taste
+R131,cumin,8,Measured recipe quantity; season to taste
+R132,prawns,220,Measured recipe quantity; season to taste
+R132,onion,55,Measured recipe quantity; season to taste
+R132,tomato,55,Measured recipe quantity; season to taste
+R132,coconut_milk,90,Measured recipe quantity; season to taste
+R132,ginger,8,Measured recipe quantity; season to taste
+R132,garlic,8,Measured recipe quantity; season to taste
+R132,curry_leaves,8,Measured recipe quantity; season to taste
+R132,oil,12,Measured recipe quantity; season to taste
+R133,potato,55,Measured recipe quantity; season to taste
+R133,onion,55,Measured recipe quantity; season to taste
+R133,tomato,55,Measured recipe quantity; season to taste
+R133,spinach,55,Measured recipe quantity; season to taste
+R133,carrot,55,Measured recipe quantity; season to taste
+R133,beans,55,Measured recipe quantity; season to taste
+R133,cauliflower,55,Measured recipe quantity; season to taste
+R133,capsicum,55,Measured recipe quantity; season to taste
+R133,ginger,8,Measured recipe quantity; season to taste
+R134,egg,220,Measured recipe quantity; season to taste
+R134,onion,55,Measured recipe quantity; season to taste
+R134,tomato,55,Measured recipe quantity; season to taste
+R134,spinach,55,Measured recipe quantity; season to taste
+R134,capsicum,55,Measured recipe quantity; season to taste
+R134,ginger,8,Measured recipe quantity; season to taste
+R134,oil,12,Measured recipe quantity; season to taste
+R135,potato,55,Measured recipe quantity; season to taste
+R135,onion,55,Measured recipe quantity; season to taste
+R135,tomato,55,Measured recipe quantity; season to taste
+R135,spinach,55,Measured recipe quantity; season to taste
+R135,carrot,55,Measured recipe quantity; season to taste
+R135,beans,55,Measured recipe quantity; season to taste
+R135,cauliflower,55,Measured recipe quantity; season to taste
+R135,capsicum,55,Measured recipe quantity; season to taste
+R135,ginger,8,Measured recipe quantity; season to taste
+R136,moong_dal_dry,90,Measured recipe quantity; season to taste
+R136,toor_dal_dry,40,Measured recipe quantity; season to taste
+R136,masoor_dal_dry,40,Measured recipe quantity; season to taste
+R136,chickpeas_dry,40,Measured recipe quantity; season to taste
+R136,onion,55,Measured recipe quantity; season to taste
+R136,tomato,55,Measured recipe quantity; season to taste
+R136,ginger,8,Measured recipe quantity; season to taste
+R136,garlic,8,Measured recipe quantity; season to taste
+R136,cumin,8,Measured recipe quantity; season to taste
+R137,moong_dal_dry,90,Measured recipe quantity; season to taste
+R137,toor_dal_dry,40,Measured recipe quantity; season to taste
+R137,masoor_dal_dry,40,Measured recipe quantity; season to taste
+R137,chickpeas_dry,40,Measured recipe quantity; season to taste
+R137,onion,55,Measured recipe quantity; season to taste
+R137,tomato,55,Measured recipe quantity; season to taste
+R137,ginger,8,Measured recipe quantity; season to taste
+R137,garlic,8,Measured recipe quantity; season to taste
+R137,cumin,8,Measured recipe quantity; season to taste
+R138,moong_dal_dry,90,Measured recipe quantity; season to taste
+R138,toor_dal_dry,40,Measured recipe quantity; season to taste
+R138,masoor_dal_dry,40,Measured recipe quantity; season to taste
+R138,chickpeas_dry,40,Measured recipe quantity; season to taste
+R138,onion,55,Measured recipe quantity; season to taste
+R138,tomato,55,Measured recipe quantity; season to taste
+R138,ginger,8,Measured recipe quantity; season to taste
+R138,garlic,8,Measured recipe quantity; season to taste
+R138,cumin,8,Measured recipe quantity; season to taste
+R139,potato,55,Measured recipe quantity; season to taste
+R139,onion,55,Measured recipe quantity; season to taste
+R139,tomato,55,Measured recipe quantity; season to taste
+R139,spinach,55,Measured recipe quantity; season to taste
+R139,carrot,55,Measured recipe quantity; season to taste
+R139,beans,55,Measured recipe quantity; season to taste
+R139,cauliflower,55,Measured recipe quantity; season to taste
+R139,capsicum,55,Measured recipe quantity; season to taste
+R139,ginger,8,Measured recipe quantity; season to taste
+R140,rice_raw,90,Measured recipe quantity; season to taste
+R140,peas,55,Measured recipe quantity; season to taste
+R140,carrot,55,Measured recipe quantity; season to taste
+R140,onion,55,Measured recipe quantity; season to taste
+R140,ginger,8,Measured recipe quantity; season to taste
+R140,garlic,8,Measured recipe quantity; season to taste
+R140,oil,12,Measured recipe quantity; season to taste
+R141,chicken_breast,220,Measured recipe quantity; season to taste
+R141,onion,55,Measured recipe quantity; season to taste
+R141,tomato,55,Measured recipe quantity; season to taste
+R141,curd,90,Measured recipe quantity; season to taste
+R141,ginger,8,Measured recipe quantity; season to taste
+R141,garlic,8,Measured recipe quantity; season to taste
+R141,oil,12,Measured recipe quantity; season to taste
+R141,cumin,8,Measured recipe quantity; season to taste
+R142,chicken_breast,220,Measured recipe quantity; season to taste
+R142,onion,55,Measured recipe quantity; season to taste
+R142,tomato,55,Measured recipe quantity; season to taste
+R142,curd,90,Measured recipe quantity; season to taste
+R142,ginger,8,Measured recipe quantity; season to taste
+R142,garlic,8,Measured recipe quantity; season to taste
+R142,oil,12,Measured recipe quantity; season to taste
+R142,cumin,8,Measured recipe quantity; season to taste
+R143,paneer,220,Measured recipe quantity; season to taste
+R143,onion,55,Measured recipe quantity; season to taste
+R143,tomato,55,Measured recipe quantity; season to taste
+R143,spinach,55,Measured recipe quantity; season to taste
+R143,capsicum,55,Measured recipe quantity; season to taste
+R143,ginger,8,Measured recipe quantity; season to taste
+R143,garlic,8,Measured recipe quantity; season to taste
+R143,oil,12,Measured recipe quantity; season to taste
+R144,potato,55,Measured recipe quantity; season to taste
+R144,onion,55,Measured recipe quantity; season to taste
+R144,tomato,55,Measured recipe quantity; season to taste
+R144,spinach,55,Measured recipe quantity; season to taste
+R144,carrot,55,Measured recipe quantity; season to taste
+R144,beans,55,Measured recipe quantity; season to taste
+R144,cauliflower,55,Measured recipe quantity; season to taste
+R144,capsicum,55,Measured recipe quantity; season to taste
+R144,ginger,8,Measured recipe quantity; season to taste
+R145,oats,90,Measured recipe quantity; season to taste
+R145,poha,40,Measured recipe quantity; season to taste
+R145,semolina,40,Measured recipe quantity; season to taste
+R145,moong_dal_dry,40,Measured recipe quantity; season to taste
+R145,onion,55,Measured recipe quantity; season to taste
+R145,carrot,55,Measured recipe quantity; season to taste
+R145,peas,55,Measured recipe quantity; season to taste
+R145,ginger,8,Measured recipe quantity; season to taste
+R145,oil,12,Measured recipe quantity; season to taste
+R146,moong_dal_dry,90,Measured recipe quantity; season to taste
+R146,toor_dal_dry,40,Measured recipe quantity; season to taste
+R146,masoor_dal_dry,40,Measured recipe quantity; season to taste
+R146,chickpeas_dry,40,Measured recipe quantity; season to taste
+R146,onion,55,Measured recipe quantity; season to taste
+R146,tomato,55,Measured recipe quantity; season to taste
+R146,ginger,8,Measured recipe quantity; season to taste
+R146,garlic,8,Measured recipe quantity; season to taste
+R146,cumin,8,Measured recipe quantity; season to taste
+R147,oats,90,Measured recipe quantity; season to taste
+R147,poha,40,Measured recipe quantity; season to taste
+R147,semolina,40,Measured recipe quantity; season to taste
+R147,moong_dal_dry,40,Measured recipe quantity; season to taste
+R147,onion,55,Measured recipe quantity; season to taste
+R147,carrot,55,Measured recipe quantity; season to taste
+R147,peas,55,Measured recipe quantity; season to taste
+R147,ginger,8,Measured recipe quantity; season to taste
+R147,oil,12,Measured recipe quantity; season to taste
+R148,moong_dal_dry,90,Measured recipe quantity; season to taste
+R148,toor_dal_dry,40,Measured recipe quantity; season to taste
+R148,masoor_dal_dry,40,Measured recipe quantity; season to taste
+R148,chickpeas_dry,40,Measured recipe quantity; season to taste
+R148,onion,55,Measured recipe quantity; season to taste
+R148,tomato,55,Measured recipe quantity; season to taste
+R148,ginger,8,Measured recipe quantity; season to taste
+R148,garlic,8,Measured recipe quantity; season to taste
+R148,cumin,8,Measured recipe quantity; season to taste
+R149,moong_dal_dry,90,Measured recipe quantity; season to taste
+R149,toor_dal_dry,40,Measured recipe quantity; season to taste
+R149,masoor_dal_dry,40,Measured recipe quantity; season to taste
+R149,chickpeas_dry,40,Measured recipe quantity; season to taste
+R149,onion,55,Measured recipe quantity; season to taste
+R149,tomato,55,Measured recipe quantity; season to taste
+R149,ginger,8,Measured recipe quantity; season to taste
+R149,garlic,8,Measured recipe quantity; season to taste
+R149,cumin,8,Measured recipe quantity; season to taste
+R150,chicken_breast,220,Measured recipe quantity; season to taste
+R150,onion,55,Measured recipe quantity; season to taste
+R150,tomato,55,Measured recipe quantity; season to taste
+R150,curd,90,Measured recipe quantity; season to taste
+R150,ginger,8,Measured recipe quantity; season to taste
+R150,garlic,8,Measured recipe quantity; season to taste
+R150,oil,12,Measured recipe quantity; season to taste
+R150,cumin,8,Measured recipe quantity; season to taste
+R151,potato,55,Measured recipe quantity; season to taste
+R151,onion,55,Measured recipe quantity; season to taste
+R151,tomato,55,Measured recipe quantity; season to taste
+R151,spinach,55,Measured recipe quantity; season to taste
+R151,carrot,55,Measured recipe quantity; season to taste
+R151,beans,55,Measured recipe quantity; season to taste
+R151,cauliflower,55,Measured recipe quantity; season to taste
+R151,capsicum,55,Measured recipe quantity; season to taste
+R151,ginger,8,Measured recipe quantity; season to taste
+R152,potato,55,Measured recipe quantity; season to taste
+R152,onion,55,Measured recipe quantity; season to taste
+R152,tomato,55,Measured recipe quantity; season to taste
+R152,spinach,55,Measured recipe quantity; season to taste
+R152,carrot,55,Measured recipe quantity; season to taste
+R152,beans,55,Measured recipe quantity; season to taste
+R152,cauliflower,55,Measured recipe quantity; season to taste
+R152,capsicum,55,Measured recipe quantity; season to taste
+R152,ginger,8,Measured recipe quantity; season to taste
+R153,rice_raw,90,Measured recipe quantity; season to taste
+R153,peas,55,Measured recipe quantity; season to taste
+R153,carrot,55,Measured recipe quantity; season to taste
+R153,onion,55,Measured recipe quantity; season to taste
+R153,ginger,8,Measured recipe quantity; season to taste
+R153,garlic,8,Measured recipe quantity; season to taste
+R153,oil,12,Measured recipe quantity; season to taste
+R154,chicken_breast,220,Measured recipe quantity; season to taste
+R154,onion,55,Measured recipe quantity; season to taste
+R154,tomato,55,Measured recipe quantity; season to taste
+R154,curd,90,Measured recipe quantity; season to taste
+R154,ginger,8,Measured recipe quantity; season to taste
+R154,garlic,8,Measured recipe quantity; season to taste
+R154,oil,12,Measured recipe quantity; season to taste
+R154,cumin,8,Measured recipe quantity; season to taste
+R155,egg,220,Measured recipe quantity; season to taste
+R155,onion,55,Measured recipe quantity; season to taste
+R155,tomato,55,Measured recipe quantity; season to taste
+R155,spinach,55,Measured recipe quantity; season to taste
+R155,capsicum,55,Measured recipe quantity; season to taste
+R155,ginger,8,Measured recipe quantity; season to taste
+R155,oil,12,Measured recipe quantity; season to taste
+R156,moong_dal_dry,90,Measured recipe quantity; season to taste
+R156,toor_dal_dry,40,Measured recipe quantity; season to taste
+R156,masoor_dal_dry,40,Measured recipe quantity; season to taste
+R156,chickpeas_dry,40,Measured recipe quantity; season to taste
+R156,onion,55,Measured recipe quantity; season to taste
+R156,tomato,55,Measured recipe quantity; season to taste
+R156,ginger,8,Measured recipe quantity; season to taste
+R156,garlic,8,Measured recipe quantity; season to taste
+R156,cumin,8,Measured recipe quantity; season to taste
+R157,potato,55,Measured recipe quantity; season to taste
+R157,onion,55,Measured recipe quantity; season to taste
+R157,tomato,55,Measured recipe quantity; season to taste
+R157,spinach,55,Measured recipe quantity; season to taste
+R157,carrot,55,Measured recipe quantity; season to taste
+R157,beans,55,Measured recipe quantity; season to taste
+R157,cauliflower,55,Measured recipe quantity; season to taste
+R157,capsicum,55,Measured recipe quantity; season to taste
+R157,ginger,8,Measured recipe quantity; season to taste
+R158,potato,55,Measured recipe quantity; season to taste
+R158,onion,55,Measured recipe quantity; season to taste
+R158,tomato,55,Measured recipe quantity; season to taste
+R158,spinach,55,Measured recipe quantity; season to taste
+R158,carrot,55,Measured recipe quantity; season to taste
+R158,beans,55,Measured recipe quantity; season to taste
+R158,cauliflower,55,Measured recipe quantity; season to taste
+R158,capsicum,55,Measured recipe quantity; season to taste
+R158,ginger,8,Measured recipe quantity; season to taste
+R159,moong_dal_dry,90,Measured recipe quantity; season to taste
+R159,toor_dal_dry,40,Measured recipe quantity; season to taste
+R159,masoor_dal_dry,40,Measured recipe quantity; season to taste
+R159,chickpeas_dry,40,Measured recipe quantity; season to taste
+R159,onion,55,Measured recipe quantity; season to taste
+R159,tomato,55,Measured recipe quantity; season to taste
+R159,ginger,8,Measured recipe quantity; season to taste
+R159,garlic,8,Measured recipe quantity; season to taste
+R159,cumin,8,Measured recipe quantity; season to taste
+R160,potato,55,Measured recipe quantity; season to taste
+R160,onion,55,Measured recipe quantity; season to taste
+R160,tomato,55,Measured recipe quantity; season to taste
+R160,spinach,55,Measured recipe quantity; season to taste
+R160,carrot,55,Measured recipe quantity; season to taste
+R160,beans,55,Measured recipe quantity; season to taste
+R160,cauliflower,55,Measured recipe quantity; season to taste
+R160,capsicum,55,Measured recipe quantity; season to taste
+R160,ginger,8,Measured recipe quantity; season to taste
+R161,fish,220,Measured recipe quantity; season to taste
+R161,onion,55,Measured recipe quantity; season to taste
+R161,tomato,55,Measured recipe quantity; season to taste
+R161,coconut_milk,90,Measured recipe quantity; season to taste
+R161,ginger,8,Measured recipe quantity; season to taste
+R161,garlic,8,Measured recipe quantity; season to taste
+R161,lemon,55,Measured recipe quantity; season to taste
+R161,oil,12,Measured recipe quantity; season to taste
+R162,potato,55,Measured recipe quantity; season to taste
+R162,onion,55,Measured recipe quantity; season to taste
+R162,tomato,55,Measured recipe quantity; season to taste
+R162,spinach,55,Measured recipe quantity; season to taste
+R162,carrot,55,Measured recipe quantity; season to taste
+R162,beans,55,Measured recipe quantity; season to taste
+R162,cauliflower,55,Measured recipe quantity; season to taste
+R162,capsicum,55,Measured recipe quantity; season to taste
+R162,ginger,8,Measured recipe quantity; season to taste
+R163,potato,55,Measured recipe quantity; season to taste
+R163,onion,55,Measured recipe quantity; season to taste
+R163,tomato,55,Measured recipe quantity; season to taste
+R163,spinach,55,Measured recipe quantity; season to taste
+R163,carrot,55,Measured recipe quantity; season to taste
+R163,beans,55,Measured recipe quantity; season to taste
+R163,cauliflower,55,Measured recipe quantity; season to taste
+R163,capsicum,55,Measured recipe quantity; season to taste
+R163,ginger,8,Measured recipe quantity; season to taste
+R164,oats,90,Measured recipe quantity; season to taste
+R164,poha,40,Measured recipe quantity; season to taste
+R164,semolina,40,Measured recipe quantity; season to taste
+R164,moong_dal_dry,40,Measured recipe quantity; season to taste
+R164,onion,55,Measured recipe quantity; season to taste
+R164,carrot,55,Measured recipe quantity; season to taste
+R164,peas,55,Measured recipe quantity; season to taste
+R164,ginger,8,Measured recipe quantity; season to taste
+R164,oil,12,Measured recipe quantity; season to taste
+R165,oats,90,Measured recipe quantity; season to taste
+R165,poha,40,Measured recipe quantity; season to taste
+R165,semolina,40,Measured recipe quantity; season to taste
+R165,moong_dal_dry,40,Measured recipe quantity; season to taste
+R165,onion,55,Measured recipe quantity; season to taste
+R165,carrot,55,Measured recipe quantity; season to taste
+R165,peas,55,Measured recipe quantity; season to taste
+R165,ginger,8,Measured recipe quantity; season to taste
+R165,oil,12,Measured recipe quantity; season to taste
+R166,egg,220,Measured recipe quantity; season to taste
+R166,onion,55,Measured recipe quantity; season to taste
+R166,tomato,55,Measured recipe quantity; season to taste
+R166,spinach,55,Measured recipe quantity; season to taste
+R166,capsicum,55,Measured recipe quantity; season to taste
+R166,ginger,8,Measured recipe quantity; season to taste
+R166,oil,12,Measured recipe quantity; season to taste
+R167,fish,220,Measured recipe quantity; season to taste
+R167,onion,55,Measured recipe quantity; season to taste
+R167,tomato,55,Measured recipe quantity; season to taste
+R167,coconut_milk,90,Measured recipe quantity; season to taste
+R167,ginger,8,Measured recipe quantity; season to taste
+R167,garlic,8,Measured recipe quantity; season to taste
+R167,lemon,55,Measured recipe quantity; season to taste
+R167,oil,12,Measured recipe quantity; season to taste
+R168,fish,220,Measured recipe quantity; season to taste
+R168,onion,55,Measured recipe quantity; season to taste
+R168,tomato,55,Measured recipe quantity; season to taste
+R168,coconut_milk,90,Measured recipe quantity; season to taste
+R168,ginger,8,Measured recipe quantity; season to taste
+R168,garlic,8,Measured recipe quantity; season to taste
+R168,lemon,55,Measured recipe quantity; season to taste
+R168,oil,12,Measured recipe quantity; season to taste
+R169,chicken_breast,220,Measured recipe quantity; season to taste
+R169,onion,55,Measured recipe quantity; season to taste
+R169,tomato,55,Measured recipe quantity; season to taste
+R169,curd,90,Measured recipe quantity; season to taste
+R169,ginger,8,Measured recipe quantity; season to taste
+R169,garlic,8,Measured recipe quantity; season to taste
+R169,oil,12,Measured recipe quantity; season to taste
+R169,cumin,8,Measured recipe quantity; season to taste
+R170,potato,55,Measured recipe quantity; season to taste
+R170,onion,55,Measured recipe quantity; season to taste
+R170,tomato,55,Measured recipe quantity; season to taste
+R170,spinach,55,Measured recipe quantity; season to taste
+R170,carrot,55,Measured recipe quantity; season to taste
+R170,beans,55,Measured recipe quantity; season to taste
+R170,cauliflower,55,Measured recipe quantity; season to taste
+R170,capsicum,55,Measured recipe quantity; season to taste
+R170,ginger,8,Measured recipe quantity; season to taste
+R171,potato,55,Measured recipe quantity; season to taste
+R171,onion,55,Measured recipe quantity; season to taste
+R171,tomato,55,Measured recipe quantity; season to taste
+R171,spinach,55,Measured recipe quantity; season to taste
+R171,carrot,55,Measured recipe quantity; season to taste
+R171,beans,55,Measured recipe quantity; season to taste
+R171,cauliflower,55,Measured recipe quantity; season to taste
+R171,capsicum,55,Measured recipe quantity; season to taste
+R171,ginger,8,Measured recipe quantity; season to taste
+R172,potato,55,Measured recipe quantity; season to taste
+R172,onion,55,Measured recipe quantity; season to taste
+R172,tomato,55,Measured recipe quantity; season to taste
+R172,spinach,55,Measured recipe quantity; season to taste
+R172,carrot,55,Measured recipe quantity; season to taste
+R172,beans,55,Measured recipe quantity; season to taste
+R172,cauliflower,55,Measured recipe quantity; season to taste
+R172,capsicum,55,Measured recipe quantity; season to taste
+R172,ginger,8,Measured recipe quantity; season to taste
+R173,potato,55,Measured recipe quantity; season to taste
+R173,onion,55,Measured recipe quantity; season to taste
+R173,tomato,55,Measured recipe quantity; season to taste
+R173,spinach,55,Measured recipe quantity; season to taste
+R173,carrot,55,Measured recipe quantity; season to taste
+R173,beans,55,Measured recipe quantity; season to taste
+R173,cauliflower,55,Measured recipe quantity; season to taste
+R173,capsicum,55,Measured recipe quantity; season to taste
+R173,ginger,8,Measured recipe quantity; season to taste
+R174,potato,55,Measured recipe quantity; season to taste
+R174,onion,55,Measured recipe quantity; season to taste
+R174,tomato,55,Measured recipe quantity; season to taste
+R174,spinach,55,Measured recipe quantity; season to taste
+R174,carrot,55,Measured recipe quantity; season to taste
+R174,beans,55,Measured recipe quantity; season to taste
+R174,cauliflower,55,Measured recipe quantity; season to taste
+R174,capsicum,55,Measured recipe quantity; season to taste
+R174,ginger,8,Measured recipe quantity; season to taste
+R175,rice_raw,90,Measured recipe quantity; season to taste
+R175,peas,55,Measured recipe quantity; season to taste
+R175,carrot,55,Measured recipe quantity; season to taste
+R175,onion,55,Measured recipe quantity; season to taste
+R175,ginger,8,Measured recipe quantity; season to taste
+R175,garlic,8,Measured recipe quantity; season to taste
+R175,oil,12,Measured recipe quantity; season to taste
+R176,oats,90,Measured recipe quantity; season to taste
+R176,poha,40,Measured recipe quantity; season to taste
+R176,semolina,40,Measured recipe quantity; season to taste
+R176,moong_dal_dry,40,Measured recipe quantity; season to taste
+R176,onion,55,Measured recipe quantity; season to taste
+R176,carrot,55,Measured recipe quantity; season to taste
+R176,peas,55,Measured recipe quantity; season to taste
+R176,ginger,8,Measured recipe quantity; season to taste
+R176,oil,12,Measured recipe quantity; season to taste
+R177,paneer,220,Measured recipe quantity; season to taste
+R177,onion,55,Measured recipe quantity; season to taste
+R177,tomato,55,Measured recipe quantity; season to taste
+R177,spinach,55,Measured recipe quantity; season to taste
+R177,capsicum,55,Measured recipe quantity; season to taste
+R177,ginger,8,Measured recipe quantity; season to taste
+R177,garlic,8,Measured recipe quantity; season to taste
+R177,oil,12,Measured recipe quantity; season to taste
+R178,oats,90,Measured recipe quantity; season to taste
+R178,poha,40,Measured recipe quantity; season to taste
+R178,semolina,40,Measured recipe quantity; season to taste
+R178,moong_dal_dry,40,Measured recipe quantity; season to taste
+R178,onion,55,Measured recipe quantity; season to taste
+R178,carrot,55,Measured recipe quantity; season to taste
+R178,peas,55,Measured recipe quantity; season to taste
+R178,ginger,8,Measured recipe quantity; season to taste
+R178,oil,12,Measured recipe quantity; season to taste
+R179,oats,90,Measured recipe quantity; season to taste
+R179,poha,40,Measured recipe quantity; season to taste
+R179,semolina,40,Measured recipe quantity; season to taste
+R179,moong_dal_dry,40,Measured recipe quantity; season to taste
+R179,onion,55,Measured recipe quantity; season to taste
+R179,carrot,55,Measured recipe quantity; season to taste
+R179,peas,55,Measured recipe quantity; season to taste
+R179,ginger,8,Measured recipe quantity; season to taste
+R179,oil,12,Measured recipe quantity; season to taste
+R180,potato,55,Measured recipe quantity; season to taste
+R180,onion,55,Measured recipe quantity; season to taste
+R180,tomato,55,Measured recipe quantity; season to taste
+R180,spinach,55,Measured recipe quantity; season to taste
+R180,carrot,55,Measured recipe quantity; season to taste
+R180,beans,55,Measured recipe quantity; season to taste
+R180,cauliflower,55,Measured recipe quantity; season to taste
+R180,capsicum,55,Measured recipe quantity; season to taste
+R180,ginger,8,Measured recipe quantity; season to taste
+R181,potato,55,Measured recipe quantity; season to taste
+R181,onion,55,Measured recipe quantity; season to taste
+R181,tomato,55,Measured recipe quantity; season to taste
+R181,spinach,55,Measured recipe quantity; season to taste
+R181,carrot,55,Measured recipe quantity; season to taste
+R181,beans,55,Measured recipe quantity; season to taste
+R181,cauliflower,55,Measured recipe quantity; season to taste
+R181,capsicum,55,Measured recipe quantity; season to taste
+R181,ginger,8,Measured recipe quantity; season to taste
+R182,potato,55,Measured recipe quantity; season to taste
+R182,onion,55,Measured recipe quantity; season to taste
+R182,tomato,55,Measured recipe quantity; season to taste
+R182,spinach,55,Measured recipe quantity; season to taste
+R182,carrot,55,Measured recipe quantity; season to taste
+R182,beans,55,Measured recipe quantity; season to taste
+R182,cauliflower,55,Measured recipe quantity; season to taste
+R182,capsicum,55,Measured recipe quantity; season to taste
+R182,ginger,8,Measured recipe quantity; season to taste
+R183,potato,55,Measured recipe quantity; season to taste
+R183,onion,55,Measured recipe quantity; season to taste
+R183,tomato,55,Measured recipe quantity; season to taste
+R183,spinach,55,Measured recipe quantity; season to taste
+R183,carrot,55,Measured recipe quantity; season to taste
+R183,beans,55,Measured recipe quantity; season to taste
+R183,cauliflower,55,Measured recipe quantity; season to taste
+R183,capsicum,55,Measured recipe quantity; season to taste
+R183,ginger,8,Measured recipe quantity; season to taste
+R184,potato,55,Measured recipe quantity; season to taste
+R184,onion,55,Measured recipe quantity; season to taste
+R184,tomato,55,Measured recipe quantity; season to taste
+R184,spinach,55,Measured recipe quantity; season to taste
+R184,carrot,55,Measured recipe quantity; season to taste
+R184,beans,55,Measured recipe quantity; season to taste
+R184,cauliflower,55,Measured recipe quantity; season to taste
+R184,capsicum,55,Measured recipe quantity; season to taste
+R184,ginger,8,Measured recipe quantity; season to taste
+R185,potato,55,Measured recipe quantity; season to taste
+R185,onion,55,Measured recipe quantity; season to taste
+R185,tomato,55,Measured recipe quantity; season to taste
+R185,spinach,55,Measured recipe quantity; season to taste
+R185,carrot,55,Measured recipe quantity; season to taste
+R185,beans,55,Measured recipe quantity; season to taste
+R185,cauliflower,55,Measured recipe quantity; season to taste
+R185,capsicum,55,Measured recipe quantity; season to taste
+R185,ginger,8,Measured recipe quantity; season to taste
+R186,potato,55,Measured recipe quantity; season to taste
+R186,onion,55,Measured recipe quantity; season to taste
+R186,tomato,55,Measured recipe quantity; season to taste
+R186,spinach,55,Measured recipe quantity; season to taste
+R186,carrot,55,Measured recipe quantity; season to taste
+R186,beans,55,Measured recipe quantity; season to taste
+R186,cauliflower,55,Measured recipe quantity; season to taste
+R186,capsicum,55,Measured recipe quantity; season to taste
+R186,ginger,8,Measured recipe quantity; season to taste
+R187,chicken_breast,220,Measured recipe quantity; season to taste
+R187,onion,55,Measured recipe quantity; season to taste
+R187,tomato,55,Measured recipe quantity; season to taste
+R187,curd,90,Measured recipe quantity; season to taste
+R187,ginger,8,Measured recipe quantity; season to taste
+R187,garlic,8,Measured recipe quantity; season to taste
+R187,oil,12,Measured recipe quantity; season to taste
+R187,cumin,8,Measured recipe quantity; season to taste
+R188,chicken_breast,220,Measured recipe quantity; season to taste
+R188,onion,55,Measured recipe quantity; season to taste
+R188,tomato,55,Measured recipe quantity; season to taste
+R188,curd,90,Measured recipe quantity; season to taste
+R188,ginger,8,Measured recipe quantity; season to taste
+R188,garlic,8,Measured recipe quantity; season to taste
+R188,oil,12,Measured recipe quantity; season to taste
+R188,cumin,8,Measured recipe quantity; season to taste
+R189,fish,220,Measured recipe quantity; season to taste
+R189,onion,55,Measured recipe quantity; season to taste
+R189,tomato,55,Measured recipe quantity; season to taste
+R189,coconut_milk,90,Measured recipe quantity; season to taste
+R189,ginger,8,Measured recipe quantity; season to taste
+R189,garlic,8,Measured recipe quantity; season to taste
+R189,lemon,55,Measured recipe quantity; season to taste
+R189,oil,12,Measured recipe quantity; season to taste
+R190,egg,220,Measured recipe quantity; season to taste
+R190,onion,55,Measured recipe quantity; season to taste
+R190,tomato,55,Measured recipe quantity; season to taste
+R190,spinach,55,Measured recipe quantity; season to taste
+R190,capsicum,55,Measured recipe quantity; season to taste
+R190,ginger,8,Measured recipe quantity; season to taste
+R190,oil,12,Measured recipe quantity; season to taste
+R191,rice_raw,90,Measured recipe quantity; season to taste
+R191,peas,55,Measured recipe quantity; season to taste
+R191,carrot,55,Measured recipe quantity; season to taste
+R191,onion,55,Measured recipe quantity; season to taste
+R191,ginger,8,Measured recipe quantity; season to taste
+R191,garlic,8,Measured recipe quantity; season to taste
+R191,oil,12,Measured recipe quantity; season to taste
+R192,oats,90,Measured recipe quantity; season to taste
+R192,poha,40,Measured recipe quantity; season to taste
+R192,semolina,40,Measured recipe quantity; season to taste
+R192,moong_dal_dry,40,Measured recipe quantity; season to taste
+R192,onion,55,Measured recipe quantity; season to taste
+R192,carrot,55,Measured recipe quantity; season to taste
+R192,peas,55,Measured recipe quantity; season to taste
+R192,ginger,8,Measured recipe quantity; season to taste
+R192,oil,12,Measured recipe quantity; season to taste
+R193,moong_dal_dry,90,Measured recipe quantity; season to taste
+R193,toor_dal_dry,40,Measured recipe quantity; season to taste
+R193,masoor_dal_dry,40,Measured recipe quantity; season to taste
+R193,chickpeas_dry,40,Measured recipe quantity; season to taste
+R193,onion,55,Measured recipe quantity; season to taste
+R193,tomato,55,Measured recipe quantity; season to taste
+R193,ginger,8,Measured recipe quantity; season to taste
+R193,garlic,8,Measured recipe quantity; season to taste
+R193,cumin,8,Measured recipe quantity; season to taste
+R194,moong_dal_dry,90,Measured recipe quantity; season to taste
+R194,toor_dal_dry,40,Measured recipe quantity; season to taste
+R194,masoor_dal_dry,40,Measured recipe quantity; season to taste
+R194,chickpeas_dry,40,Measured recipe quantity; season to taste
+R194,onion,55,Measured recipe quantity; season to taste
+R194,tomato,55,Measured recipe quantity; season to taste
+R194,ginger,8,Measured recipe quantity; season to taste
+R194,garlic,8,Measured recipe quantity; season to taste
+R194,cumin,8,Measured recipe quantity; season to taste
+R195,paneer,220,Measured recipe quantity; season to taste
+R195,onion,55,Measured recipe quantity; season to taste
+R195,tomato,55,Measured recipe quantity; season to taste
+R195,spinach,55,Measured recipe quantity; season to taste
+R195,capsicum,55,Measured recipe quantity; season to taste
+R195,ginger,8,Measured recipe quantity; season to taste
+R195,garlic,8,Measured recipe quantity; season to taste
+R195,oil,12,Measured recipe quantity; season to taste
+R196,moong_dal_dry,90,Measured recipe quantity; season to taste
+R196,toor_dal_dry,40,Measured recipe quantity; season to taste
+R196,masoor_dal_dry,40,Measured recipe quantity; season to taste
+R196,chickpeas_dry,40,Measured recipe quantity; season to taste
+R196,onion,55,Measured recipe quantity; season to taste
+R196,tomato,55,Measured recipe quantity; season to taste
+R196,ginger,8,Measured recipe quantity; season to taste
+R196,garlic,8,Measured recipe quantity; season to taste
+R196,cumin,8,Measured recipe quantity; season to taste
+R197,moong_dal_dry,90,Measured recipe quantity; season to taste
+R197,toor_dal_dry,40,Measured recipe quantity; season to taste
+R197,masoor_dal_dry,40,Measured recipe quantity; season to taste
+R197,chickpeas_dry,40,Measured recipe quantity; season to taste
+R197,onion,55,Measured recipe quantity; season to taste
+R197,tomato,55,Measured recipe quantity; season to taste
+R197,ginger,8,Measured recipe quantity; season to taste
+R197,garlic,8,Measured recipe quantity; season to taste
+R197,cumin,8,Measured recipe quantity; season to taste
+R198,moong_dal_dry,90,Measured recipe quantity; season to taste
+R198,toor_dal_dry,40,Measured recipe quantity; season to taste
+R198,masoor_dal_dry,40,Measured recipe quantity; season to taste
+R198,chickpeas_dry,40,Measured recipe quantity; season to taste
+R198,onion,55,Measured recipe quantity; season to taste
+R198,tomato,55,Measured recipe quantity; season to taste
+R198,ginger,8,Measured recipe quantity; season to taste
+R198,garlic,8,Measured recipe quantity; season to taste
+R198,cumin,8,Measured recipe quantity; season to taste
+R199,moong_dal_dry,90,Measured recipe quantity; season to taste
+R199,toor_dal_dry,40,Measured recipe quantity; season to taste
+R199,masoor_dal_dry,40,Measured recipe quantity; season to taste
+R199,chickpeas_dry,40,Measured recipe quantity; season to taste
+R199,onion,55,Measured recipe quantity; season to taste
+R199,tomato,55,Measured recipe quantity; season to taste
+R199,ginger,8,Measured recipe quantity; season to taste
+R199,garlic,8,Measured recipe quantity; season to taste
+R199,cumin,8,Measured recipe quantity; season to taste
+R200,paneer,220,Measured recipe quantity; season to taste
+R200,onion,55,Measured recipe quantity; season to taste
+R200,tomato,55,Measured recipe quantity; season to taste
+R200,spinach,55,Measured recipe quantity; season to taste
+R200,capsicum,55,Measured recipe quantity; season to taste
+R200,ginger,8,Measured recipe quantity; season to taste
+R200,garlic,8,Measured recipe quantity; season to taste
+R200,oil,12,Measured recipe quantity; season to taste
+R201,paneer,220,Measured recipe quantity; season to taste
+R201,onion,55,Measured recipe quantity; season to taste
+R201,tomato,55,Measured recipe quantity; season to taste
+R201,spinach,55,Measured recipe quantity; season to taste
+R201,capsicum,55,Measured recipe quantity; season to taste
+R201,ginger,8,Measured recipe quantity; season to taste
+R201,garlic,8,Measured recipe quantity; season to taste
+R201,oil,12,Measured recipe quantity; season to taste
+R202,paneer,220,Measured recipe quantity; season to taste
+R202,onion,55,Measured recipe quantity; season to taste
+R202,tomato,55,Measured recipe quantity; season to taste
+R202,spinach,55,Measured recipe quantity; season to taste
+R202,capsicum,55,Measured recipe quantity; season to taste
+R202,ginger,8,Measured recipe quantity; season to taste
+R202,garlic,8,Measured recipe quantity; season to taste
+R202,oil,12,Measured recipe quantity; season to taste
+R203,potato,55,Measured recipe quantity; season to taste
+R203,onion,55,Measured recipe quantity; season to taste
+R203,tomato,55,Measured recipe quantity; season to taste
+R203,spinach,55,Measured recipe quantity; season to taste
+R203,carrot,55,Measured recipe quantity; season to taste
+R203,beans,55,Measured recipe quantity; season to taste
+R203,cauliflower,55,Measured recipe quantity; season to taste
+R203,capsicum,55,Measured recipe quantity; season to taste
+R203,ginger,8,Measured recipe quantity; season to taste
+R204,potato,55,Measured recipe quantity; season to taste
+R204,onion,55,Measured recipe quantity; season to taste
+R204,tomato,55,Measured recipe quantity; season to taste
+R204,spinach,55,Measured recipe quantity; season to taste
+R204,carrot,55,Measured recipe quantity; season to taste
+R204,beans,55,Measured recipe quantity; season to taste
+R204,cauliflower,55,Measured recipe quantity; season to taste
+R204,capsicum,55,Measured recipe quantity; season to taste
+R204,ginger,8,Measured recipe quantity; season to taste
+R205,moong_dal_dry,90,Measured recipe quantity; season to taste
+R205,toor_dal_dry,40,Measured recipe quantity; season to taste
+R205,masoor_dal_dry,40,Measured recipe quantity; season to taste
+R205,chickpeas_dry,40,Measured recipe quantity; season to taste
+R205,onion,55,Measured recipe quantity; season to taste
+R205,tomato,55,Measured recipe quantity; season to taste
+R205,ginger,8,Measured recipe quantity; season to taste
+R205,garlic,8,Measured recipe quantity; season to taste
+R205,cumin,8,Measured recipe quantity; season to taste
+R206,paneer,220,Measured recipe quantity; season to taste
+R206,onion,55,Measured recipe quantity; season to taste
+R206,tomato,55,Measured recipe quantity; season to taste
+R206,spinach,55,Measured recipe quantity; season to taste
+R206,capsicum,55,Measured recipe quantity; season to taste
+R206,ginger,8,Measured recipe quantity; season to taste
+R206,garlic,8,Measured recipe quantity; season to taste
+R206,oil,12,Measured recipe quantity; season to taste
+R207,millet_flour,90,Measured recipe quantity; season to taste
+R207,ragi_flour,40,Measured recipe quantity; season to taste
+R207,whole_wheat_flour,40,Measured recipe quantity; season to taste
+R207,moong_dal_dry,40,Measured recipe quantity; season to taste
+R207,onion,55,Measured recipe quantity; season to taste
+R207,coriander,8,Measured recipe quantity; season to taste
+R207,oil,12,Measured recipe quantity; season to taste
+R208,chicken_breast,220,Measured recipe quantity; season to taste
+R208,onion,55,Measured recipe quantity; season to taste
+R208,tomato,55,Measured recipe quantity; season to taste
+R208,curd,90,Measured recipe quantity; season to taste
+R208,ginger,8,Measured recipe quantity; season to taste
+R208,garlic,8,Measured recipe quantity; season to taste
+R208,oil,12,Measured recipe quantity; season to taste
+R208,cumin,8,Measured recipe quantity; season to taste
+R209,chicken_breast,220,Measured recipe quantity; season to taste
+R209,onion,55,Measured recipe quantity; season to taste
+R209,tomato,55,Measured recipe quantity; season to taste
+R209,curd,90,Measured recipe quantity; season to taste
+R209,ginger,8,Measured recipe quantity; season to taste
+R209,garlic,8,Measured recipe quantity; season to taste
+R209,oil,12,Measured recipe quantity; season to taste
+R209,cumin,8,Measured recipe quantity; season to taste
+R210,chicken_breast,220,Measured recipe quantity; season to taste
+R210,onion,55,Measured recipe quantity; season to taste
+R210,tomato,55,Measured recipe quantity; season to taste
+R210,curd,90,Measured recipe quantity; season to taste
+R210,ginger,8,Measured recipe quantity; season to taste
+R210,garlic,8,Measured recipe quantity; season to taste
+R210,oil,12,Measured recipe quantity; season to taste
+R210,cumin,8,Measured recipe quantity; season to taste
+R211,chicken_breast,220,Measured recipe quantity; season to taste
+R211,onion,55,Measured recipe quantity; season to taste
+R211,tomato,55,Measured recipe quantity; season to taste
+R211,curd,90,Measured recipe quantity; season to taste
+R211,ginger,8,Measured recipe quantity; season to taste
+R211,garlic,8,Measured recipe quantity; season to taste
+R211,oil,12,Measured recipe quantity; season to taste
+R211,cumin,8,Measured recipe quantity; season to taste
+R212,egg,220,Measured recipe quantity; season to taste
+R212,onion,55,Measured recipe quantity; season to taste
+R212,tomato,55,Measured recipe quantity; season to taste
+R212,spinach,55,Measured recipe quantity; season to taste
+R212,capsicum,55,Measured recipe quantity; season to taste
+R212,ginger,8,Measured recipe quantity; season to taste
+R212,oil,12,Measured recipe quantity; season to taste
+R213,potato,55,Measured recipe quantity; season to taste
+R213,onion,55,Measured recipe quantity; season to taste
+R213,tomato,55,Measured recipe quantity; season to taste
+R213,spinach,55,Measured recipe quantity; season to taste
+R213,carrot,55,Measured recipe quantity; season to taste
+R213,beans,55,Measured recipe quantity; season to taste
+R213,cauliflower,55,Measured recipe quantity; season to taste
+R213,capsicum,55,Measured recipe quantity; season to taste
+R213,ginger,8,Measured recipe quantity; season to taste
+R214,moong_dal_dry,90,Measured recipe quantity; season to taste
+R214,toor_dal_dry,40,Measured recipe quantity; season to taste
+R214,masoor_dal_dry,40,Measured recipe quantity; season to taste
+R214,chickpeas_dry,40,Measured recipe quantity; season to taste
+R214,onion,55,Measured recipe quantity; season to taste
+R214,tomato,55,Measured recipe quantity; season to taste
+R214,ginger,8,Measured recipe quantity; season to taste
+R214,garlic,8,Measured recipe quantity; season to taste
+R214,cumin,8,Measured recipe quantity; season to taste
+R215,rice_raw,90,Measured recipe quantity; season to taste
+R215,peas,55,Measured recipe quantity; season to taste
+R215,carrot,55,Measured recipe quantity; season to taste
+R215,onion,55,Measured recipe quantity; season to taste
+R215,ginger,8,Measured recipe quantity; season to taste
+R215,garlic,8,Measured recipe quantity; season to taste
+R215,oil,12,Measured recipe quantity; season to taste
+R216,moong_dal_dry,90,Measured recipe quantity; season to taste
+R216,toor_dal_dry,40,Measured recipe quantity; season to taste
+R216,masoor_dal_dry,40,Measured recipe quantity; season to taste
+R216,chickpeas_dry,40,Measured recipe quantity; season to taste
+R216,onion,55,Measured recipe quantity; season to taste
+R216,tomato,55,Measured recipe quantity; season to taste
+R216,ginger,8,Measured recipe quantity; season to taste
+R216,garlic,8,Measured recipe quantity; season to taste
+R216,cumin,8,Measured recipe quantity; season to taste
+R217,moong_dal_dry,90,Measured recipe quantity; season to taste
+R217,toor_dal_dry,40,Measured recipe quantity; season to taste
+R217,masoor_dal_dry,40,Measured recipe quantity; season to taste
+R217,chickpeas_dry,40,Measured recipe quantity; season to taste
+R217,onion,55,Measured recipe quantity; season to taste
+R217,tomato,55,Measured recipe quantity; season to taste
+R217,ginger,8,Measured recipe quantity; season to taste
+R217,garlic,8,Measured recipe quantity; season to taste
+R217,cumin,8,Measured recipe quantity; season to taste
+R218,potato,55,Measured recipe quantity; season to taste
+R218,onion,55,Measured recipe quantity; season to taste
+R218,tomato,55,Measured recipe quantity; season to taste
+R218,spinach,55,Measured recipe quantity; season to taste
+R218,carrot,55,Measured recipe quantity; season to taste
+R218,beans,55,Measured recipe quantity; season to taste
+R218,cauliflower,55,Measured recipe quantity; season to taste
+R218,capsicum,55,Measured recipe quantity; season to taste
+R218,ginger,8,Measured recipe quantity; season to taste
+R219,potato,55,Measured recipe quantity; season to taste
+R219,onion,55,Measured recipe quantity; season to taste
+R219,tomato,55,Measured recipe quantity; season to taste
+R219,spinach,55,Measured recipe quantity; season to taste
+R219,carrot,55,Measured recipe quantity; season to taste
+R219,beans,55,Measured recipe quantity; season to taste
+R219,cauliflower,55,Measured recipe quantity; season to taste
+R219,capsicum,55,Measured recipe quantity; season to taste
+R219,ginger,8,Measured recipe quantity; season to taste
+R220,paneer,220,Measured recipe quantity; season to taste
+R220,onion,55,Measured recipe quantity; season to taste
+R220,tomato,55,Measured recipe quantity; season to taste
+R220,spinach,55,Measured recipe quantity; season to taste
+R220,capsicum,55,Measured recipe quantity; season to taste
+R220,ginger,8,Measured recipe quantity; season to taste
+R220,garlic,8,Measured recipe quantity; season to taste
+R220,oil,12,Measured recipe quantity; season to taste
+R221,potato,55,Measured recipe quantity; season to taste
+R221,onion,55,Measured recipe quantity; season to taste
+R221,tomato,55,Measured recipe quantity; season to taste
+R221,spinach,55,Measured recipe quantity; season to taste
+R221,carrot,55,Measured recipe quantity; season to taste
+R221,beans,55,Measured recipe quantity; season to taste
+R221,cauliflower,55,Measured recipe quantity; season to taste
+R221,capsicum,55,Measured recipe quantity; season to taste
+R221,ginger,8,Measured recipe quantity; season to taste
+R222,egg,220,Measured recipe quantity; season to taste
+R222,onion,55,Measured recipe quantity; season to taste
+R222,tomato,55,Measured recipe quantity; season to taste
+R222,spinach,55,Measured recipe quantity; season to taste
+R222,capsicum,55,Measured recipe quantity; season to taste
+R222,ginger,8,Measured recipe quantity; season to taste
+R222,oil,12,Measured recipe quantity; season to taste
+R223,fish,220,Measured recipe quantity; season to taste
+R223,onion,55,Measured recipe quantity; season to taste
+R223,tomato,55,Measured recipe quantity; season to taste
+R223,coconut_milk,90,Measured recipe quantity; season to taste
+R223,ginger,8,Measured recipe quantity; season to taste
+R223,garlic,8,Measured recipe quantity; season to taste
+R223,lemon,55,Measured recipe quantity; season to taste
+R223,oil,12,Measured recipe quantity; season to taste
+R224,chicken_breast,220,Measured recipe quantity; season to taste
+R224,onion,55,Measured recipe quantity; season to taste
+R224,tomato,55,Measured recipe quantity; season to taste
+R224,curd,90,Measured recipe quantity; season to taste
+R224,ginger,8,Measured recipe quantity; season to taste
+R224,garlic,8,Measured recipe quantity; season to taste
+R224,oil,12,Measured recipe quantity; season to taste
+R224,cumin,8,Measured recipe quantity; season to taste
+R225,chicken_breast,220,Measured recipe quantity; season to taste
+R225,onion,55,Measured recipe quantity; season to taste
+R225,tomato,55,Measured recipe quantity; season to taste
+R225,curd,90,Measured recipe quantity; season to taste
+R225,ginger,8,Measured recipe quantity; season to taste
+R225,garlic,8,Measured recipe quantity; season to taste
+R225,oil,12,Measured recipe quantity; season to taste
+R225,cumin,8,Measured recipe quantity; season to taste
+R226,moong_dal_dry,90,Measured recipe quantity; season to taste
+R226,toor_dal_dry,40,Measured recipe quantity; season to taste
+R226,masoor_dal_dry,40,Measured recipe quantity; season to taste
+R226,chickpeas_dry,40,Measured recipe quantity; season to taste
+R226,onion,55,Measured recipe quantity; season to taste
+R226,tomato,55,Measured recipe quantity; season to taste
+R226,ginger,8,Measured recipe quantity; season to taste
+R226,garlic,8,Measured recipe quantity; season to taste
+R226,cumin,8,Measured recipe quantity; season to taste
+R227,potato,55,Measured recipe quantity; season to taste
+R227,onion,55,Measured recipe quantity; season to taste
+R227,tomato,55,Measured recipe quantity; season to taste
+R227,spinach,55,Measured recipe quantity; season to taste
+R227,carrot,55,Measured recipe quantity; season to taste
+R227,beans,55,Measured recipe quantity; season to taste
+R227,cauliflower,55,Measured recipe quantity; season to taste
+R227,capsicum,55,Measured recipe quantity; season to taste
+R227,ginger,8,Measured recipe quantity; season to taste
+R228,paneer,220,Measured recipe quantity; season to taste
+R228,onion,55,Measured recipe quantity; season to taste
+R228,tomato,55,Measured recipe quantity; season to taste
+R228,spinach,55,Measured recipe quantity; season to taste
+R228,capsicum,55,Measured recipe quantity; season to taste
+R228,ginger,8,Measured recipe quantity; season to taste
+R228,garlic,8,Measured recipe quantity; season to taste
+R228,oil,12,Measured recipe quantity; season to taste
+R229,oats,90,Measured recipe quantity; season to taste
+R229,poha,40,Measured recipe quantity; season to taste
+R229,semolina,40,Measured recipe quantity; season to taste
+R229,moong_dal_dry,40,Measured recipe quantity; season to taste
+R229,onion,55,Measured recipe quantity; season to taste
+R229,carrot,55,Measured recipe quantity; season to taste
+R229,peas,55,Measured recipe quantity; season to taste
+R229,ginger,8,Measured recipe quantity; season to taste
+R229,oil,12,Measured recipe quantity; season to taste
+R230,potato,55,Measured recipe quantity; season to taste
+R230,onion,55,Measured recipe quantity; season to taste
+R230,tomato,55,Measured recipe quantity; season to taste
+R230,spinach,55,Measured recipe quantity; season to taste
+R230,carrot,55,Measured recipe quantity; season to taste
+R230,beans,55,Measured recipe quantity; season to taste
+R230,cauliflower,55,Measured recipe quantity; season to taste
+R230,capsicum,55,Measured recipe quantity; season to taste
+R230,ginger,8,Measured recipe quantity; season to taste
+R231,moong_dal_dry,90,Measured recipe quantity; season to taste
+R231,toor_dal_dry,40,Measured recipe quantity; season to taste
+R231,masoor_dal_dry,40,Measured recipe quantity; season to taste
+R231,chickpeas_dry,40,Measured recipe quantity; season to taste
+R231,onion,55,Measured recipe quantity; season to taste
+R231,tomato,55,Measured recipe quantity; season to taste
+R231,ginger,8,Measured recipe quantity; season to taste
+R231,garlic,8,Measured recipe quantity; season to taste
+R231,cumin,8,Measured recipe quantity; season to taste
+R232,potato,55,Measured recipe quantity; season to taste
+R232,onion,55,Measured recipe quantity; season to taste
+R232,tomato,55,Measured recipe quantity; season to taste
+R232,spinach,55,Measured recipe quantity; season to taste
+R232,carrot,55,Measured recipe quantity; season to taste
+R232,beans,55,Measured recipe quantity; season to taste
+R232,cauliflower,55,Measured recipe quantity; season to taste
+R232,capsicum,55,Measured recipe quantity; season to taste
+R232,ginger,8,Measured recipe quantity; season to taste
+R233,potato,55,Measured recipe quantity; season to taste
+R233,onion,55,Measured recipe quantity; season to taste
+R233,tomato,55,Measured recipe quantity; season to taste
+R233,spinach,55,Measured recipe quantity; season to taste
+R233,carrot,55,Measured recipe quantity; season to taste
+R233,beans,55,Measured recipe quantity; season to taste
+R233,cauliflower,55,Measured recipe quantity; season to taste
+R233,capsicum,55,Measured recipe quantity; season to taste
+R233,ginger,8,Measured recipe quantity; season to taste
+R234,potato,55,Measured recipe quantity; season to taste
+R234,onion,55,Measured recipe quantity; season to taste
+R234,tomato,55,Measured recipe quantity; season to taste
+R234,spinach,55,Measured recipe quantity; season to taste
+R234,carrot,55,Measured recipe quantity; season to taste
+R234,beans,55,Measured recipe quantity; season to taste
+R234,cauliflower,55,Measured recipe quantity; season to taste
+R234,capsicum,55,Measured recipe quantity; season to taste
+R234,ginger,8,Measured recipe quantity; season to taste
+R235,potato,55,Measured recipe quantity; season to taste
+R235,onion,55,Measured recipe quantity; season to taste
+R235,tomato,55,Measured recipe quantity; season to taste
+R235,spinach,55,Measured recipe quantity; season to taste
+R235,carrot,55,Measured recipe quantity; season to taste
+R235,beans,55,Measured recipe quantity; season to taste
+R235,cauliflower,55,Measured recipe quantity; season to taste
+R235,capsicum,55,Measured recipe quantity; season to taste
+R235,ginger,8,Measured recipe quantity; season to taste
+R236,fish,220,Measured recipe quantity; season to taste
+R236,onion,55,Measured recipe quantity; season to taste
+R236,tomato,55,Measured recipe quantity; season to taste
+R236,coconut_milk,90,Measured recipe quantity; season to taste
+R236,ginger,8,Measured recipe quantity; season to taste
+R236,garlic,8,Measured recipe quantity; season to taste
+R236,lemon,55,Measured recipe quantity; season to taste
+R236,oil,12,Measured recipe quantity; season to taste
+R237,fish,220,Measured recipe quantity; season to taste
+R237,onion,55,Measured recipe quantity; season to taste
+R237,tomato,55,Measured recipe quantity; season to taste
+R237,coconut_milk,90,Measured recipe quantity; season to taste
+R237,ginger,8,Measured recipe quantity; season to taste
+R237,garlic,8,Measured recipe quantity; season to taste
+R237,lemon,55,Measured recipe quantity; season to taste
+R237,oil,12,Measured recipe quantity; season to taste
+R238,fish,220,Measured recipe quantity; season to taste
+R238,onion,55,Measured recipe quantity; season to taste
+R238,tomato,55,Measured recipe quantity; season to taste
+R238,coconut_milk,90,Measured recipe quantity; season to taste
+R238,ginger,8,Measured recipe quantity; season to taste
+R238,garlic,8,Measured recipe quantity; season to taste
+R238,lemon,55,Measured recipe quantity; season to taste
+R238,oil,12,Measured recipe quantity; season to taste
+R239,egg,220,Measured recipe quantity; season to taste
+R239,onion,55,Measured recipe quantity; season to taste
+R239,tomato,55,Measured recipe quantity; season to taste
+R239,spinach,55,Measured recipe quantity; season to taste
+R239,capsicum,55,Measured recipe quantity; season to taste
+R239,ginger,8,Measured recipe quantity; season to taste
+R239,oil,12,Measured recipe quantity; season to taste
+R240,chicken_breast,220,Measured recipe quantity; season to taste
+R240,onion,55,Measured recipe quantity; season to taste
+R240,tomato,55,Measured recipe quantity; season to taste
+R240,curd,90,Measured recipe quantity; season to taste
+R240,ginger,8,Measured recipe quantity; season to taste
+R240,garlic,8,Measured recipe quantity; season to taste
+R240,oil,12,Measured recipe quantity; season to taste
+R240,cumin,8,Measured recipe quantity; season to taste
+R241,moong_dal_dry,90,Measured recipe quantity; season to taste
+R241,toor_dal_dry,40,Measured recipe quantity; season to taste
+R241,masoor_dal_dry,40,Measured recipe quantity; season to taste
+R241,chickpeas_dry,40,Measured recipe quantity; season to taste
+R241,onion,55,Measured recipe quantity; season to taste
+R241,tomato,55,Measured recipe quantity; season to taste
+R241,ginger,8,Measured recipe quantity; season to taste
+R241,garlic,8,Measured recipe quantity; season to taste
+R241,cumin,8,Measured recipe quantity; season to taste
+R242,potato,55,Measured recipe quantity; season to taste
+R242,onion,55,Measured recipe quantity; season to taste
+R242,tomato,55,Measured recipe quantity; season to taste
+R242,spinach,55,Measured recipe quantity; season to taste
+R242,carrot,55,Measured recipe quantity; season to taste
+R242,beans,55,Measured recipe quantity; season to taste
+R242,cauliflower,55,Measured recipe quantity; season to taste
+R242,capsicum,55,Measured recipe quantity; season to taste
+R242,ginger,8,Measured recipe quantity; season to taste
+R243,rice_raw,90,Measured recipe quantity; season to taste
+R243,peas,55,Measured recipe quantity; season to taste
+R243,carrot,55,Measured recipe quantity; season to taste
+R243,onion,55,Measured recipe quantity; season to taste
+R243,ginger,8,Measured recipe quantity; season to taste
+R243,garlic,8,Measured recipe quantity; season to taste
+R243,oil,12,Measured recipe quantity; season to taste
+R244,moong_dal_dry,90,Measured recipe quantity; season to taste
+R244,toor_dal_dry,40,Measured recipe quantity; season to taste
+R244,masoor_dal_dry,40,Measured recipe quantity; season to taste
+R244,chickpeas_dry,40,Measured recipe quantity; season to taste
+R244,onion,55,Measured recipe quantity; season to taste
+R244,tomato,55,Measured recipe quantity; season to taste
+R244,ginger,8,Measured recipe quantity; season to taste
+R244,garlic,8,Measured recipe quantity; season to taste
+R244,cumin,8,Measured recipe quantity; season to taste
+R245,paneer,220,Measured recipe quantity; season to taste
+R245,onion,55,Measured recipe quantity; season to taste
+R245,tomato,55,Measured recipe quantity; season to taste
+R245,spinach,55,Measured recipe quantity; season to taste
+R245,capsicum,55,Measured recipe quantity; season to taste
+R245,ginger,8,Measured recipe quantity; season to taste
+R245,garlic,8,Measured recipe quantity; season to taste
+R245,oil,12,Measured recipe quantity; season to taste
+R246,potato,55,Measured recipe quantity; season to taste
+R246,onion,55,Measured recipe quantity; season to taste
+R246,tomato,55,Measured recipe quantity; season to taste
+R246,spinach,55,Measured recipe quantity; season to taste
+R246,carrot,55,Measured recipe quantity; season to taste
+R246,beans,55,Measured recipe quantity; season to taste
+R246,cauliflower,55,Measured recipe quantity; season to taste
+R246,capsicum,55,Measured recipe quantity; season to taste
+R246,ginger,8,Measured recipe quantity; season to taste
+R247,potato,55,Measured recipe quantity; season to taste
+R247,onion,55,Measured recipe quantity; season to taste
+R247,tomato,55,Measured recipe quantity; season to taste
+R247,spinach,55,Measured recipe quantity; season to taste
+R247,carrot,55,Measured recipe quantity; season to taste
+R247,beans,55,Measured recipe quantity; season to taste
+R247,cauliflower,55,Measured recipe quantity; season to taste
+R247,capsicum,55,Measured recipe quantity; season to taste
+R247,ginger,8,Measured recipe quantity; season to taste
+R248,oats,90,Measured recipe quantity; season to taste
+R248,poha,40,Measured recipe quantity; season to taste
+R248,semolina,40,Measured recipe quantity; season to taste
+R248,moong_dal_dry,40,Measured recipe quantity; season to taste
+R248,onion,55,Measured recipe quantity; season to taste
+R248,carrot,55,Measured recipe quantity; season to taste
+R248,peas,55,Measured recipe quantity; season to taste
+R248,ginger,8,Measured recipe quantity; season to taste
+R248,oil,12,Measured recipe quantity; season to taste
+R249,oats,90,Measured recipe quantity; season to taste
+R249,poha,40,Measured recipe quantity; season to taste
+R249,semolina,40,Measured recipe quantity; season to taste
+R249,moong_dal_dry,40,Measured recipe quantity; season to taste
+R249,onion,55,Measured recipe quantity; season to taste
+R249,carrot,55,Measured recipe quantity; season to taste
+R249,peas,55,Measured recipe quantity; season to taste
+R249,ginger,8,Measured recipe quantity; season to taste
+R249,oil,12,Measured recipe quantity; season to taste
+R250,paneer,220,Measured recipe quantity; season to taste
+R250,onion,55,Measured recipe quantity; season to taste
+R250,tomato,55,Measured recipe quantity; season to taste
+R250,spinach,55,Measured recipe quantity; season to taste
+R250,capsicum,55,Measured recipe quantity; season to taste
+R250,ginger,8,Measured recipe quantity; season to taste
+R250,garlic,8,Measured recipe quantity; season to taste
+R250,oil,12,Measured recipe quantity; season to taste
+R251,moong_dal_dry,90,Measured recipe quantity; season to taste
+R251,toor_dal_dry,40,Measured recipe quantity; season to taste
+R251,masoor_dal_dry,40,Measured recipe quantity; season to taste
+R251,chickpeas_dry,40,Measured recipe quantity; season to taste
+R251,onion,55,Measured recipe quantity; season to taste
+R251,tomato,55,Measured recipe quantity; season to taste
+R251,ginger,8,Measured recipe quantity; season to taste
+R251,garlic,8,Measured recipe quantity; season to taste
+R251,cumin,8,Measured recipe quantity; season to taste
+R252,potato,55,Measured recipe quantity; season to taste
+R252,onion,55,Measured recipe quantity; season to taste
+R252,tomato,55,Measured recipe quantity; season to taste
+R252,spinach,55,Measured recipe quantity; season to taste
+R252,carrot,55,Measured recipe quantity; season to taste
+R252,beans,55,Measured recipe quantity; season to taste
+R252,cauliflower,55,Measured recipe quantity; season to taste
+R252,capsicum,55,Measured recipe quantity; season to taste
+R252,ginger,8,Measured recipe quantity; season to taste
+R253,moong_dal_dry,90,Measured recipe quantity; season to taste
+R253,toor_dal_dry,40,Measured recipe quantity; season to taste
+R253,masoor_dal_dry,40,Measured recipe quantity; season to taste
+R253,chickpeas_dry,40,Measured recipe quantity; season to taste
+R253,onion,55,Measured recipe quantity; season to taste
+R253,tomato,55,Measured recipe quantity; season to taste
+R253,ginger,8,Measured recipe quantity; season to taste
+R253,garlic,8,Measured recipe quantity; season to taste
+R253,cumin,8,Measured recipe quantity; season to taste
+R254,potato,55,Measured recipe quantity; season to taste
+R254,onion,55,Measured recipe quantity; season to taste
+R254,tomato,55,Measured recipe quantity; season to taste
+R254,spinach,55,Measured recipe quantity; season to taste
+R254,carrot,55,Measured recipe quantity; season to taste
+R254,beans,55,Measured recipe quantity; season to taste
+R254,cauliflower,55,Measured recipe quantity; season to taste
+R254,capsicum,55,Measured recipe quantity; season to taste
+R254,ginger,8,Measured recipe quantity; season to taste
+R255,potato,55,Measured recipe quantity; season to taste
+R255,onion,55,Measured recipe quantity; season to taste
+R255,tomato,55,Measured recipe quantity; season to taste
+R255,spinach,55,Measured recipe quantity; season to taste
+R255,carrot,55,Measured recipe quantity; season to taste
+R255,beans,55,Measured recipe quantity; season to taste
+R255,cauliflower,55,Measured recipe quantity; season to taste
+R255,capsicum,55,Measured recipe quantity; season to taste
+R255,ginger,8,Measured recipe quantity; season to taste
+R256,moong_dal_dry,90,Measured recipe quantity; season to taste
+R256,toor_dal_dry,40,Measured recipe quantity; season to taste
+R256,masoor_dal_dry,40,Measured recipe quantity; season to taste
+R256,chickpeas_dry,40,Measured recipe quantity; season to taste
+R256,onion,55,Measured recipe quantity; season to taste
+R256,tomato,55,Measured recipe quantity; season to taste
+R256,ginger,8,Measured recipe quantity; season to taste
+R256,garlic,8,Measured recipe quantity; season to taste
+R256,cumin,8,Measured recipe quantity; season to taste
+R257,potato,55,Measured recipe quantity; season to taste
+R257,onion,55,Measured recipe quantity; season to taste
+R257,tomato,55,Measured recipe quantity; season to taste
+R257,spinach,55,Measured recipe quantity; season to taste
+R257,carrot,55,Measured recipe quantity; season to taste
+R257,beans,55,Measured recipe quantity; season to taste
+R257,cauliflower,55,Measured recipe quantity; season to taste
+R257,capsicum,55,Measured recipe quantity; season to taste
+R257,ginger,8,Measured recipe quantity; season to taste
+R258,potato,55,Measured recipe quantity; season to taste
+R258,onion,55,Measured recipe quantity; season to taste
+R258,tomato,55,Measured recipe quantity; season to taste
+R258,spinach,55,Measured recipe quantity; season to taste
+R258,carrot,55,Measured recipe quantity; season to taste
+R258,beans,55,Measured recipe quantity; season to taste
+R258,cauliflower,55,Measured recipe quantity; season to taste
+R258,capsicum,55,Measured recipe quantity; season to taste
+R258,ginger,8,Measured recipe quantity; season to taste
+R259,moong_dal_dry,90,Measured recipe quantity; season to taste
+R259,toor_dal_dry,40,Measured recipe quantity; season to taste
+R259,masoor_dal_dry,40,Measured recipe quantity; season to taste
+R259,chickpeas_dry,40,Measured recipe quantity; season to taste
+R259,onion,55,Measured recipe quantity; season to taste
+R259,tomato,55,Measured recipe quantity; season to taste
+R259,ginger,8,Measured recipe quantity; season to taste
+R259,garlic,8,Measured recipe quantity; season to taste
+R259,cumin,8,Measured recipe quantity; season to taste
+R260,moong_dal_dry,90,Measured recipe quantity; season to taste
+R260,toor_dal_dry,40,Measured recipe quantity; season to taste
+R260,masoor_dal_dry,40,Measured recipe quantity; season to taste
+R260,chickpeas_dry,40,Measured recipe quantity; season to taste
+R260,onion,55,Measured recipe quantity; season to taste
+R260,tomato,55,Measured recipe quantity; season to taste
+R260,ginger,8,Measured recipe quantity; season to taste
+R260,garlic,8,Measured recipe quantity; season to taste
+R260,cumin,8,Measured recipe quantity; season to taste
+R261,potato,55,Measured recipe quantity; season to taste
+R261,onion,55,Measured recipe quantity; season to taste
+R261,tomato,55,Measured recipe quantity; season to taste
+R261,spinach,55,Measured recipe quantity; season to taste
+R261,carrot,55,Measured recipe quantity; season to taste
+R261,beans,55,Measured recipe quantity; season to taste
+R261,cauliflower,55,Measured recipe quantity; season to taste
+R261,capsicum,55,Measured recipe quantity; season to taste
+R261,ginger,8,Measured recipe quantity; season to taste
+R262,paneer,220,Measured recipe quantity; season to taste
+R262,onion,55,Measured recipe quantity; season to taste
+R262,tomato,55,Measured recipe quantity; season to taste
+R262,spinach,55,Measured recipe quantity; season to taste
+R262,capsicum,55,Measured recipe quantity; season to taste
+R262,ginger,8,Measured recipe quantity; season to taste
+R262,garlic,8,Measured recipe quantity; season to taste
+R262,oil,12,Measured recipe quantity; season to taste
+R263,chicken_breast,220,Measured recipe quantity; season to taste
+R263,onion,55,Measured recipe quantity; season to taste
+R263,tomato,55,Measured recipe quantity; season to taste
+R263,curd,90,Measured recipe quantity; season to taste
+R263,ginger,8,Measured recipe quantity; season to taste
+R263,garlic,8,Measured recipe quantity; season to taste
+R263,oil,12,Measured recipe quantity; season to taste
+R263,cumin,8,Measured recipe quantity; season to taste
+R264,millet_flour,90,Measured recipe quantity; season to taste
+R264,ragi_flour,40,Measured recipe quantity; season to taste
+R264,whole_wheat_flour,40,Measured recipe quantity; season to taste
+R264,moong_dal_dry,40,Measured recipe quantity; season to taste
+R264,onion,55,Measured recipe quantity; season to taste
+R264,coriander,8,Measured recipe quantity; season to taste
+R264,oil,12,Measured recipe quantity; season to taste
+R265,moong_dal_dry,90,Measured recipe quantity; season to taste
+R265,toor_dal_dry,40,Measured recipe quantity; season to taste
+R265,masoor_dal_dry,40,Measured recipe quantity; season to taste
+R265,chickpeas_dry,40,Measured recipe quantity; season to taste
+R265,onion,55,Measured recipe quantity; season to taste
+R265,tomato,55,Measured recipe quantity; season to taste
+R265,ginger,8,Measured recipe quantity; season to taste
+R265,garlic,8,Measured recipe quantity; season to taste
+R265,cumin,8,Measured recipe quantity; season to taste
+R266,egg,220,Measured recipe quantity; season to taste
+R266,onion,55,Measured recipe quantity; season to taste
+R266,tomato,55,Measured recipe quantity; season to taste
+R266,spinach,55,Measured recipe quantity; season to taste
+R266,capsicum,55,Measured recipe quantity; season to taste
+R266,ginger,8,Measured recipe quantity; season to taste
+R266,oil,12,Measured recipe quantity; season to taste
+R267,moong_dal_dry,90,Measured recipe quantity; season to taste
+R267,toor_dal_dry,40,Measured recipe quantity; season to taste
+R267,masoor_dal_dry,40,Measured recipe quantity; season to taste
+R267,chickpeas_dry,40,Measured recipe quantity; season to taste
+R267,onion,55,Measured recipe quantity; season to taste
+R267,tomato,55,Measured recipe quantity; season to taste
+R267,ginger,8,Measured recipe quantity; season to taste
+R267,garlic,8,Measured recipe quantity; season to taste
+R267,cumin,8,Measured recipe quantity; season to taste
+R268,paneer,220,Measured recipe quantity; season to taste
+R268,onion,55,Measured recipe quantity; season to taste
+R268,tomato,55,Measured recipe quantity; season to taste
+R268,spinach,55,Measured recipe quantity; season to taste
+R268,capsicum,55,Measured recipe quantity; season to taste
+R268,ginger,8,Measured recipe quantity; season to taste
+R268,garlic,8,Measured recipe quantity; season to taste
+R268,oil,12,Measured recipe quantity; season to taste
+R269,potato,55,Measured recipe quantity; season to taste
+R269,onion,55,Measured recipe quantity; season to taste
+R269,tomato,55,Measured recipe quantity; season to taste
+R269,spinach,55,Measured recipe quantity; season to taste
+R269,carrot,55,Measured recipe quantity; season to taste
+R269,beans,55,Measured recipe quantity; season to taste
+R269,cauliflower,55,Measured recipe quantity; season to taste
+R269,capsicum,55,Measured recipe quantity; season to taste
+R269,ginger,8,Measured recipe quantity; season to taste
+R270,moong_dal_dry,90,Measured recipe quantity; season to taste
+R270,toor_dal_dry,40,Measured recipe quantity; season to taste
+R270,masoor_dal_dry,40,Measured recipe quantity; season to taste
+R270,chickpeas_dry,40,Measured recipe quantity; season to taste
+R270,onion,55,Measured recipe quantity; season to taste
+R270,tomato,55,Measured recipe quantity; season to taste
+R270,ginger,8,Measured recipe quantity; season to taste
+R270,garlic,8,Measured recipe quantity; season to taste
+R270,cumin,8,Measured recipe quantity; season to taste
+R271,millet_flour,90,Measured recipe quantity; season to taste
+R271,ragi_flour,40,Measured recipe quantity; season to taste
+R271,whole_wheat_flour,40,Measured recipe quantity; season to taste
+R271,moong_dal_dry,40,Measured recipe quantity; season to taste
+R271,onion,55,Measured recipe quantity; season to taste
+R271,coriander,8,Measured recipe quantity; season to taste
+R271,oil,12,Measured recipe quantity; season to taste
+R272,rice_raw,90,Measured recipe quantity; season to taste
+R272,peas,55,Measured recipe quantity; season to taste
+R272,carrot,55,Measured recipe quantity; season to taste
+R272,onion,55,Measured recipe quantity; season to taste
+R272,ginger,8,Measured recipe quantity; season to taste
+R272,garlic,8,Measured recipe quantity; season to taste
+R272,oil,12,Measured recipe quantity; season to taste
+R273,potato,55,Measured recipe quantity; season to taste
+R273,onion,55,Measured recipe quantity; season to taste
+R273,tomato,55,Measured recipe quantity; season to taste
+R273,spinach,55,Measured recipe quantity; season to taste
+R273,carrot,55,Measured recipe quantity; season to taste
+R273,beans,55,Measured recipe quantity; season to taste
+R273,cauliflower,55,Measured recipe quantity; season to taste
+R273,capsicum,55,Measured recipe quantity; season to taste
+R273,ginger,8,Measured recipe quantity; season to taste
+R274,millet_flour,90,Measured recipe quantity; season to taste
+R274,ragi_flour,40,Measured recipe quantity; season to taste
+R274,whole_wheat_flour,40,Measured recipe quantity; season to taste
+R274,moong_dal_dry,40,Measured recipe quantity; season to taste
+R274,onion,55,Measured recipe quantity; season to taste
+R274,coriander,8,Measured recipe quantity; season to taste
+R274,oil,12,Measured recipe quantity; season to taste
+R275,chicken_breast,220,Measured recipe quantity; season to taste
+R275,onion,55,Measured recipe quantity; season to taste
+R275,tomato,55,Measured recipe quantity; season to taste
+R275,curd,90,Measured recipe quantity; season to taste
+R275,ginger,8,Measured recipe quantity; season to taste
+R275,garlic,8,Measured recipe quantity; season to taste
+R275,oil,12,Measured recipe quantity; season to taste
+R275,cumin,8,Measured recipe quantity; season to taste
+R276,fish,220,Measured recipe quantity; season to taste
+R276,onion,55,Measured recipe quantity; season to taste
+R276,tomato,55,Measured recipe quantity; season to taste
+R276,coconut_milk,90,Measured recipe quantity; season to taste
+R276,ginger,8,Measured recipe quantity; season to taste
+R276,garlic,8,Measured recipe quantity; season to taste
+R276,lemon,55,Measured recipe quantity; season to taste
+R276,oil,12,Measured recipe quantity; season to taste
+R277,egg,220,Measured recipe quantity; season to taste
+R277,onion,55,Measured recipe quantity; season to taste
+R277,tomato,55,Measured recipe quantity; season to taste
+R277,spinach,55,Measured recipe quantity; season to taste
+R277,capsicum,55,Measured recipe quantity; season to taste
+R277,ginger,8,Measured recipe quantity; season to taste
+R277,oil,12,Measured recipe quantity; season to taste
+R278,rice_raw,90,Measured recipe quantity; season to taste
+R278,peas,55,Measured recipe quantity; season to taste
+R278,carrot,55,Measured recipe quantity; season to taste
+R278,onion,55,Measured recipe quantity; season to taste
+R278,ginger,8,Measured recipe quantity; season to taste
+R278,garlic,8,Measured recipe quantity; season to taste
+R278,oil,12,Measured recipe quantity; season to taste
+R279,paneer,220,Measured recipe quantity; season to taste
+R279,onion,55,Measured recipe quantity; season to taste
+R279,tomato,55,Measured recipe quantity; season to taste
+R279,spinach,55,Measured recipe quantity; season to taste
+R279,capsicum,55,Measured recipe quantity; season to taste
+R279,ginger,8,Measured recipe quantity; season to taste
+R279,garlic,8,Measured recipe quantity; season to taste
+R279,oil,12,Measured recipe quantity; season to taste
+R280,potato,55,Measured recipe quantity; season to taste
+R280,onion,55,Measured recipe quantity; season to taste
+R280,tomato,55,Measured recipe quantity; season to taste
+R280,spinach,55,Measured recipe quantity; season to taste
+R280,carrot,55,Measured recipe quantity; season to taste
+R280,beans,55,Measured recipe quantity; season to taste
+R280,cauliflower,55,Measured recipe quantity; season to taste
+R280,capsicum,55,Measured recipe quantity; season to taste
+R280,ginger,8,Measured recipe quantity; season to taste
+R281,fish,220,Measured recipe quantity; season to taste
+R281,onion,55,Measured recipe quantity; season to taste
+R281,tomato,55,Measured recipe quantity; season to taste
+R281,coconut_milk,90,Measured recipe quantity; season to taste
+R281,ginger,8,Measured recipe quantity; season to taste
+R281,garlic,8,Measured recipe quantity; season to taste
+R281,lemon,55,Measured recipe quantity; season to taste
+R281,oil,12,Measured recipe quantity; season to taste
+R282,prawns,220,Measured recipe quantity; season to taste
+R282,onion,55,Measured recipe quantity; season to taste
+R282,tomato,55,Measured recipe quantity; season to taste
+R282,coconut_milk,90,Measured recipe quantity; season to taste
+R282,ginger,8,Measured recipe quantity; season to taste
+R282,garlic,8,Measured recipe quantity; season to taste
+R282,curry_leaves,8,Measured recipe quantity; season to taste
+R282,oil,12,Measured recipe quantity; season to taste
+R283,chicken_breast,220,Measured recipe quantity; season to taste
+R283,onion,55,Measured recipe quantity; season to taste
+R283,tomato,55,Measured recipe quantity; season to taste
+R283,curd,90,Measured recipe quantity; season to taste
+R283,ginger,8,Measured recipe quantity; season to taste
+R283,garlic,8,Measured recipe quantity; season to taste
+R283,oil,12,Measured recipe quantity; season to taste
+R283,cumin,8,Measured recipe quantity; season to taste
+R284,egg,220,Measured recipe quantity; season to taste
+R284,onion,55,Measured recipe quantity; season to taste
+R284,tomato,55,Measured recipe quantity; season to taste
+R284,spinach,55,Measured recipe quantity; season to taste
+R284,capsicum,55,Measured recipe quantity; season to taste
+R284,ginger,8,Measured recipe quantity; season to taste
+R284,oil,12,Measured recipe quantity; season to taste
+R285,potato,55,Measured recipe quantity; season to taste
+R285,onion,55,Measured recipe quantity; season to taste
+R285,tomato,55,Measured recipe quantity; season to taste
+R285,spinach,55,Measured recipe quantity; season to taste
+R285,carrot,55,Measured recipe quantity; season to taste
+R285,beans,55,Measured recipe quantity; season to taste
+R285,cauliflower,55,Measured recipe quantity; season to taste
+R285,capsicum,55,Measured recipe quantity; season to taste
+R285,ginger,8,Measured recipe quantity; season to taste
+R286,rice_raw,90,Measured recipe quantity; season to taste
+R286,peas,55,Measured recipe quantity; season to taste
+R286,carrot,55,Measured recipe quantity; season to taste
+R286,onion,55,Measured recipe quantity; season to taste
+R286,ginger,8,Measured recipe quantity; season to taste
+R286,garlic,8,Measured recipe quantity; season to taste
+R286,oil,12,Measured recipe quantity; season to taste
+R287,potato,55,Measured recipe quantity; season to taste
+R287,onion,55,Measured recipe quantity; season to taste
+R287,tomato,55,Measured recipe quantity; season to taste
+R287,spinach,55,Measured recipe quantity; season to taste
+R287,carrot,55,Measured recipe quantity; season to taste
+R287,beans,55,Measured recipe quantity; season to taste
+R287,cauliflower,55,Measured recipe quantity; season to taste
+R287,capsicum,55,Measured recipe quantity; season to taste
+R287,ginger,8,Measured recipe quantity; season to taste
+R288,brown_rice_raw,90,Measured recipe quantity; season to taste
+R288,chickpeas_dry,40,Measured recipe quantity; season to taste
+R288,rajma_dry,40,Measured recipe quantity; season to taste
+R288,tomato,55,Measured recipe quantity; season to taste
+R288,capsicum,55,Measured recipe quantity; season to taste
+R288,cucumber,55,Measured recipe quantity; season to taste
+R288,spinach,55,Measured recipe quantity; season to taste
+R288,lemon,55,Measured recipe quantity; season to taste
+R288,oil,12,Measured recipe quantity; season to taste
+R289,chicken_breast,220,Measured recipe quantity; season to taste
+R289,onion,55,Measured recipe quantity; season to taste
+R289,tomato,55,Measured recipe quantity; season to taste
+R289,curd,90,Measured recipe quantity; season to taste
+R289,ginger,8,Measured recipe quantity; season to taste
+R289,garlic,8,Measured recipe quantity; season to taste
+R289,oil,12,Measured recipe quantity; season to taste
+R289,cumin,8,Measured recipe quantity; season to taste
+R290,egg,220,Measured recipe quantity; season to taste
+R290,onion,55,Measured recipe quantity; season to taste
+R290,tomato,55,Measured recipe quantity; season to taste
+R290,spinach,55,Measured recipe quantity; season to taste
+R290,capsicum,55,Measured recipe quantity; season to taste
+R290,ginger,8,Measured recipe quantity; season to taste
+R290,oil,12,Measured recipe quantity; season to taste
+R291,rice_raw,90,Measured recipe quantity; season to taste
+R291,peas,55,Measured recipe quantity; season to taste
+R291,carrot,55,Measured recipe quantity; season to taste
+R291,onion,55,Measured recipe quantity; season to taste
+R291,ginger,8,Measured recipe quantity; season to taste
+R291,garlic,8,Measured recipe quantity; season to taste
+R291,oil,12,Measured recipe quantity; season to taste
+R292,chicken_breast,220,Measured recipe quantity; season to taste
+R292,onion,55,Measured recipe quantity; season to taste
+R292,tomato,55,Measured recipe quantity; season to taste
+R292,curd,90,Measured recipe quantity; season to taste
+R292,ginger,8,Measured recipe quantity; season to taste
+R292,garlic,8,Measured recipe quantity; season to taste
+R292,oil,12,Measured recipe quantity; season to taste
+R292,cumin,8,Measured recipe quantity; season to taste
+R293,paneer,220,Measured recipe quantity; season to taste
+R293,onion,55,Measured recipe quantity; season to taste
+R293,tomato,55,Measured recipe quantity; season to taste
+R293,spinach,55,Measured recipe quantity; season to taste
+R293,capsicum,55,Measured recipe quantity; season to taste
+R293,ginger,8,Measured recipe quantity; season to taste
+R293,garlic,8,Measured recipe quantity; season to taste
+R293,oil,12,Measured recipe quantity; season to taste
+R294,chicken_breast,220,Measured recipe quantity; season to taste
+R294,onion,55,Measured recipe quantity; season to taste
+R294,tomato,55,Measured recipe quantity; season to taste
+R294,curd,90,Measured recipe quantity; season to taste
+R294,ginger,8,Measured recipe quantity; season to taste
+R294,garlic,8,Measured recipe quantity; season to taste
+R294,oil,12,Measured recipe quantity; season to taste
+R294,cumin,8,Measured recipe quantity; season to taste
+R295,potato,55,Measured recipe quantity; season to taste
+R295,onion,55,Measured recipe quantity; season to taste
+R295,tomato,55,Measured recipe quantity; season to taste
+R295,spinach,55,Measured recipe quantity; season to taste
+R295,carrot,55,Measured recipe quantity; season to taste
+R295,beans,55,Measured recipe quantity; season to taste
+R295,cauliflower,55,Measured recipe quantity; season to taste
+R295,capsicum,55,Measured recipe quantity; season to taste
+R295,ginger,8,Measured recipe quantity; season to taste
+R296,potato,55,Measured recipe quantity; season to taste
+R296,onion,55,Measured recipe quantity; season to taste
+R296,tomato,55,Measured recipe quantity; season to taste
+R296,spinach,55,Measured recipe quantity; season to taste
+R296,carrot,55,Measured recipe quantity; season to taste
+R296,beans,55,Measured recipe quantity; season to taste
+R296,cauliflower,55,Measured recipe quantity; season to taste
+R296,capsicum,55,Measured recipe quantity; season to taste
+R296,ginger,8,Measured recipe quantity; season to taste
+R297,tofu,220,Measured recipe quantity; season to taste
+R297,broccoli,55,Measured recipe quantity; season to taste
+R297,capsicum,55,Measured recipe quantity; season to taste
+R297,carrot,55,Measured recipe quantity; season to taste
+R297,garlic,8,Measured recipe quantity; season to taste
+R297,ginger,8,Measured recipe quantity; season to taste
+R297,oil,12,Measured recipe quantity; season to taste
+R298,brown_rice_raw,90,Measured recipe quantity; season to taste
+R298,chickpeas_dry,40,Measured recipe quantity; season to taste
+R298,rajma_dry,40,Measured recipe quantity; season to taste
+R298,tomato,55,Measured recipe quantity; season to taste
+R298,capsicum,55,Measured recipe quantity; season to taste
+R298,cucumber,55,Measured recipe quantity; season to taste
+R298,spinach,55,Measured recipe quantity; season to taste
+R298,lemon,55,Measured recipe quantity; season to taste
+R298,oil,12,Measured recipe quantity; season to taste
+R299,chicken_breast,220,Measured recipe quantity; season to taste
+R299,onion,55,Measured recipe quantity; season to taste
+R299,tomato,55,Measured recipe quantity; season to taste
+R299,curd,90,Measured recipe quantity; season to taste
+R299,ginger,8,Measured recipe quantity; season to taste
+R299,garlic,8,Measured recipe quantity; season to taste
+R299,oil,12,Measured recipe quantity; season to taste
+R299,cumin,8,Measured recipe quantity; season to taste
+R300,egg,220,Measured recipe quantity; season to taste
+R300,onion,55,Measured recipe quantity; season to taste
+R300,tomato,55,Measured recipe quantity; season to taste
+R300,spinach,55,Measured recipe quantity; season to taste
+R300,capsicum,55,Measured recipe quantity; season to taste
+R300,ginger,8,Measured recipe quantity; season to taste
+R300,oil,12,Measured recipe quantity; season to taste
+R127,toor_dal_dry,75,Main ingredient; quantity is an approximate recipe-development amount
+R131,chicken_thigh,180,Main ingredient; quantity is an approximate recipe-development amount
+R141,chicken_thigh,180,Main ingredient; quantity is an approximate recipe-development amount
+R150,chicken_thigh,180,Main ingredient; quantity is an approximate recipe-development amount
+R154,chicken_thigh,180,Main ingredient; quantity is an approximate recipe-development amount
+R169,chicken_thigh,180,Main ingredient; quantity is an approximate recipe-development amount
+R170,pumpkin,180,Main ingredient; quantity is an approximate recipe-development amount
+R171,pumpkin,180,Main ingredient; quantity is an approximate recipe-development amount
+R173,cabbage,180,Main ingredient; quantity is an approximate recipe-development amount
+R176,chickpeas_dry,75,Main ingredient; quantity is an approximate recipe-development amount
+R187,chicken_thigh,180,Main ingredient; quantity is an approximate recipe-development amount
+R188,chicken_thigh,180,Main ingredient; quantity is an approximate recipe-development amount
+R208,chicken_thigh,180,Main ingredient; quantity is an approximate recipe-development amount
+R209,chicken_thigh,180,Main ingredient; quantity is an approximate recipe-development amount
+R210,chicken_thigh,180,Main ingredient; quantity is an approximate recipe-development amount
+R211,chicken_thigh,180,Main ingredient; quantity is an approximate recipe-development amount
+R224,chicken_thigh,180,Main ingredient; quantity is an approximate recipe-development amount
+R225,chicken_thigh,180,Main ingredient; quantity is an approximate recipe-development amount
+R240,chicken_thigh,180,Main ingredient; quantity is an approximate recipe-development amount
+R263,moong_dal_dry,75,Main ingredient; quantity is an approximate recipe-development amount
+R275,chicken_thigh,180,Main ingredient; quantity is an approximate recipe-development amount
+R283,chicken_thigh,180,Main ingredient; quantity is an approximate recipe-development amount
+R285,mushroom,180,Main ingredient; quantity is an approximate recipe-development amount
+R289,chicken_thigh,180,Main ingredient; quantity is an approximate recipe-development amount
+R292,chicken_thigh,180,Main ingredient; quantity is an approximate recipe-development amount
+R294,chicken_thigh,180,Main ingredient; quantity is an approximate recipe-development amount
+R296,mushroom,180,Main ingredient; quantity is an approximate recipe-development amount
+R299,chicken_thigh,180,Main ingredient; quantity is an approximate recipe-development amount
