@@ -282,6 +282,65 @@ div[data-testid="stMetric"],
   color: #263B32 !important;
 }
 
+/* Reports tab: explicit, high-contrast nutrition summary card */
+.report-summary {
+  margin: .6rem 0 1.4rem;
+  padding: 1.5rem;
+  border-radius: 20px;
+  background: #EAF2E7 !important;
+  color: #263B32 !important;
+  border: 1px solid #D4E2D0;
+  box-shadow: 0 8px 22px rgba(38, 59, 50, .06);
+}
+.report-summary-heading { margin-bottom: 1rem; }
+.report-summary-kicker {
+  color: #315C46 !important;
+  font-size: .7rem;
+  font-weight: 800;
+  letter-spacing: .14em;
+}
+.report-summary h3 {
+  color: #263B32 !important;
+  margin: .35rem 0 0;
+}
+.report-summary-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: .75rem;
+}
+.report-summary-item {
+  display: flex;
+  flex-direction: column;
+  gap: .35rem;
+  min-width: 0;
+  padding: 1rem;
+  border: 1px solid #DCE5D8;
+  border-radius: 14px;
+  background: #FFFFFF !important;
+  color: #263B32 !important;
+}
+.report-summary-item span {
+  color: #52665A !important;
+  font-size: .8rem;
+  font-weight: 600;
+}
+.report-summary-item strong {
+  color: #244735 !important;
+  font-family: 'Manrope', sans-serif;
+  font-size: 1.25rem;
+  overflow-wrap: anywhere;
+}
+.report-summary-wide { grid-column: 1 / -1; }
+.report-summary-note {
+  margin: 1rem 0 0;
+  color: #52665A !important;
+  font-size: .82rem;
+}
+@media (max-width: 560px) {
+  .report-summary-grid { grid-template-columns: 1fr; }
+  .report-summary-wide { grid-column: auto; }
+}
+
 /* Navigation tabs: readable inactive and active states */
 [data-testid="stTabs"] button[role="tab"] {
   color: #52665A !important;
