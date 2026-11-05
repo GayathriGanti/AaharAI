@@ -1,8 +1,8 @@
-# AI Personalized Diet Recommendation System
+# AaharMind AI — Personalised Nutrition & Meal Planning
 
-A Streamlit application for estimating basic nutrition metrics, exploring food recommendations, and generating a 7-day meal plan from a structured recipe database.
+AaharMind AI is a Streamlit-based personalised nutrition companion that estimates daily nutrition metrics, recommends foods, explores recipes and builds a practical 7-day meal plan.
 
-## Included in this complete project
+## What AaharMind AI includes
 
 - Existing Streamlit dashboard and food recommendation workflow
 - BMI, BMR and TDEE estimates, with a fitness goal selected by the user
@@ -176,3 +176,27 @@ streamlit run python/app.py
 ```
 
 Nutrition values remain estimates derived from the recipe ingredient database. Recipe entries and cooking methods should be reviewed and kitchen-tested before production or clinical use.
+
+
+## Deploy on Streamlit Community Cloud
+
+1. Push the tested branch to GitHub.
+2. Sign in at https://share.streamlit.io/ using the GitHub account that can access this repository.
+3. Select **Create app** and choose this repository, the deployment branch, and the entrypoint file `python/app.py`.
+4. Keep the dependency file as the root-level `requirements.txt`.
+5. For the optional Gemini assistant, add `GEMINI_API_KEY` in the app's **Advanced settings → Secrets**. Do not commit API keys or `.streamlit/secrets.toml`.
+6. Select Python 3.12 initially (the Community Cloud default documented at the time of writing), deploy, and inspect the app logs if startup fails.
+
+## Contributing as a team
+
+- Keep `main` as the stable, tested branch.
+- Create one feature branch per contributor or task, for example `feature/recipe-cards` or `feature/profile-flow`.
+- Commit and push changes to that feature branch, then open a pull request into `main`.
+- Pull the latest `main` before starting new work. Avoid having multiple contributors edit `python/app.py` at the same time.
+- Never commit `.venv/`, `.env`, API keys, or `.streamlit/secrets.toml`.
+
+## Project identity
+
+**Product name:** AaharMind AI  
+**Tagline:** Personalised nutrition, practical meals.  
+**GitHub repository slug:** `aaharmind-ai`
