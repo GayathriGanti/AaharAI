@@ -348,6 +348,8 @@ if st.session_state.get("generated", False):
     bmr = st.session_state.bmr
     tdee = st.session_state.tdee
     target_calories = st.session_state.get("target_calories", round(tdee))
+    age = int(st.session_state.get("profile_age", 18))
+    meals_per_day = int(st.session_state.get("profile_meals", 3))
 
     foods = foods[foods["food"].notna()]
     foods = foods[foods["food"].str.len() > 5]
